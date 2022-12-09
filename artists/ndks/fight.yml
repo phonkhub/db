@@ -1,0 +1,13 @@
+---
+name: Fight
+artist: NDKS
+genre: NDKS
+released: 2020-03-28
+cover: "https://i1.sndcdn.com/artworks-ZmIaCSx19120ImLW-mn6QOQ-large.jpg"
+tracks:
+  "1":
+    name: Fight
+    duration: "4:36"
+    location:
+      - url: "https://soundcloud.com/indeksjunts/fight"
+track_count: 1

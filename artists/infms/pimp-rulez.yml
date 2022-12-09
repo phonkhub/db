@@ -1,0 +1,16 @@
+name: Pimp Rulez
+artist: iNFMS
+duration: 2:02
+genre: Phonk
+released: 2017-08-31
+cover: https://i1.sndcdn.com/artworks-KIrBmgvqTR69RyAI-7eWTvg-t500x500.jpg
+track_count: 1
+tracks:
+  1:
+    name: Pimp Rulez
+    artists:
+      - iNFMS
+      - MACSWORLD
+    duration: 2:02
+    location:
+      - url: https://soundcloud.com/iaminfms/pimp-rulez-w-macswolrd

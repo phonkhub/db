@@ -1,0 +1,16 @@
+name: Outta Space
+artist: Giovane Six
+duration: 3:29
+genre: Phonk
+released: 2018-12-20
+cover: https://i1.sndcdn.com/artworks-000541244319-us72rg-t500x500.jpg
+track_count: 1
+tracks:
+  1:
+    name: Outta Space
+    artists:
+      - Giovane Six
+      - Green Piccolo
+    duration: 3:29
+    location:
+      - url: https://soundcloud.com/giovane666/outta-space

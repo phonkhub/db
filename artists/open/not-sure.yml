@@ -1,0 +1,16 @@
+name: Not Sure
+artist: OPEN
+duration: 3:25
+genre: Phonk
+released: 2019-04-22
+cover: https://i1.sndcdn.com/artworks-C7tlyszu1xBGtBvw-hi08Ug-t500x500.jpg
+track_count: 1
+tracks:
+  1:
+    name: Not Sure
+    artists:
+      - OPEN
+      - Jupiluxe
+    duration: 3:25
+    location:
+      - url: https://soundcloud.com/prodopen/not-sure-w-jupiluxe

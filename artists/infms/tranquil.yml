@@ -1,0 +1,16 @@
+name: Tranquil
+artist: iNFMS
+duration: 4:41
+genre: Phonk
+released: 2020-05-1
+cover: https://i1.sndcdn.com/artworks-ouxmEWauulewVEdI-87xElg-t500x500.jpg
+track_count: 1
+tracks:
+  1:
+    name: Tranquil
+    artists:
+      - iNFMS
+      - kalibvr
+    duration: 4:41
+    location:
+      - url: https://soundcloud.com/iaminfms/tranquil-w-kalibvr

@@ -1,0 +1,16 @@
+name: Dreamin By The Trees
+artist: iNFMS
+duration: 2:58
+genre: Phonk
+released: 2020-12-18
+cover: https://i1.sndcdn.com/artworks-Z9CJGKZGIyWkQbWA-CsBIPA-t500x500.jpg
+track_count: 1
+tracks:
+  1:
+    name: Dreamin By The Trees
+    artists:
+      - iNFMS
+      - Camyo
+    duration: 2:58
+    location:
+      - url: https://soundcloud.com/iaminfms/dreamin-by-the-trees-w-camyo

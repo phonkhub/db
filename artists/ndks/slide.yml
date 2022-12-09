@@ -1,0 +1,17 @@
+---
+name: Slide
+artist: NDKS
+genre: Phonk
+released: 2020-07-21
+cover: "https://i1.sndcdn.com/artworks-Rrns2MjwJzj6ZKe8-lZAjVg-large.jpg"
+tracks:
+  "1":
+    name: Slide
+    duration: "3:39"
+    artists:
+      - NDKS
+      - Doloklein
+      - Deishin
+    location:
+      - url: "https://soundcloud.com/indeksjunts/slide-w-doloklein-deishin"
+track_count: 1

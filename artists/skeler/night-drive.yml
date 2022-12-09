@@ -1,0 +1,153 @@
+name: Night Drive
+artist: Skeler
+duration: 57:34
+genre: Phonk Wave
+released: 2020
+cover: https://i1.sndcdn.com/artworks-zI7Lk3QHLmfPPVjF-dknZqA-t500x500.jpg
+track_count: 7
+tracks:
+    1:
+        name: "ID #1"
+        duration: 2:40
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 0:00
+    2:
+        name: Nose to the Grindstone
+        artist: Devilish Trio
+        remix: Skeler
+        duration: 3:10
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 2:40
+    3:
+        name: "ID #2"
+        duration: 1:47
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 5:50
+    4:
+        name: "ID #3"
+        duration: 2:08
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 7:37
+    5:
+        name: No Limits
+        artists:
+            - DaniLeigh
+            - Milash
+        remix: Skeler
+        duration: 2:05
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 9:45
+    6:
+        name: "ID #4"
+        duration: 1:21
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 11:50
+    7:
+        name: "ID #5"
+        duration: 1:37
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 13:11
+    8:
+        name: Red Out
+        duration: 2:37
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 14:48
+    9:
+        name: "ID #6"
+        duration: 2:35
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 17:15
+    10:
+        name: "ID #7"
+        duration: 2:45
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 19:50
+    11:
+        name: "ID #8"
+        duration: 1:40
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 22:35
+    12:
+        name: "ID #9"
+        duration: 1:30
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 24:15
+    13:
+        name: I Can't Say No
+        artist: Lea Rue
+        remix: Skeler
+        duration: 2:29
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 25:45
+    14:
+        name: "ID #10"
+        duration: 2:23
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 28:14
+    15:
+        name: "ID #11"
+        duration: 3:29
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 30:37
+    16:
+        name: "ID #12"
+        duration: 2:32
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 34:06
+    17:
+        name: Umbrella
+        artist: Rihanna
+        remix: Skeler
+        artist_cover: Ember Island
+        duration: 3:35
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 36:38
+    18:
+        name: Eyes on Fire
+        artist: Blue Foundation
+        remix: Skeler
+        duration: 2:54
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 40:13
+    19:
+        name: "ID #13"
+        duration: 4:40
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 43:07
+    20:
+        name: "ID #14"
+        duration: 3:26
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 47:47
+    21:
+        name: "ID #15"
+        duration: 1:45
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 51:13
+    22:
+        name: Waste Part 2
+        duration: 4:37
+        location:
+            - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
+              at: 52:58

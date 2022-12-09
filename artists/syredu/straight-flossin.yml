@@ -1,0 +1,64 @@
+
+name: Straight Flossin
+artist: Syredu
+duration: 20:04
+genre: Phonk
+released: 2022-11-27
+cover: https://f4.bcbits.com/img/a1223565137_10.jpg
+track_count: 7
+tracks:
+  1:
+    name: Beautiful Season
+    duration: 03:22
+    location:
+      - url: https://syredu.bandcamp.com/track/beautiful-season
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 0:00
+  2:
+    name: My Eyes
+    duration: 02:19
+    location:
+      - url: https://syredu.bandcamp.com/track/my-eyes
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 03:22
+  3:
+    name: Night Dreams
+    duration: 03:24
+    location:
+      - url: https://syredu.bandcamp.com/track/night-dreams
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 05:41
+  4:
+    name: Dance In Night
+    duration: 3:48
+    location:
+      - url: https://syredu.bandcamp.com/track/dance-in-night
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 09:06
+  5:
+    name: Ward Hoes
+    duration: 1:10
+    location:
+      - url: https://syredu.bandcamp.com/track/ward-hoes-interlude
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 12:55
+  6:
+    name: Forever
+    duration: 3:02
+    artists:
+      - Syredu
+      - Tommy Martini
+    location:
+      - url: https://syredu.bandcamp.com/track/forever-w-tommy-martini
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 14:06
+  7:
+    name: Moment
+    duration: 2:55
+    artists:
+      - Syredu
+      - Traciscrey
+    location:
+      - url: https://syredu.bandcamp.com/track/moment-w-tracisgrey
+      - url: https://soundcloud.com/syredu/straight-flossin
+        at: 17:08
