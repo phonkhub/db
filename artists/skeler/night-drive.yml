@@ -4,7 +4,7 @@ duration: 57:34
 genre: Phonk Wave
 released: 2020-07-28
 cover: https://i1.sndcdn.com/artworks-zI7Lk3QHLmfPPVjF-dknZqA-t500x500.jpg
-track_count: 7
+track_count: 22
 tracks:
     1:
         name: "ID #1"
@@ -35,8 +35,8 @@ tracks:
     5:
         name: No Limits
         artists:
-            - DaniLeigh
-            - Milash
+            - id: DaniLeigh
+            - id: Milash
         remix: Skeler
         duration: 2:05
         location:
@@ -86,8 +86,10 @@ tracks:
               at: 24:15
     13:
         name: I Can't Say No
-        artist: Lea Rue
-        remix: Skeler
+        artists:
+            - id: Lea Rue
+            - id: skeler
+              for: remix
         duration: 2:29
         location:
             - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e
@@ -121,8 +123,10 @@ tracks:
               at: 36:38
     18:
         name: Eyes on Fire
-        artist: Blue Foundation
-        remix: Skeler
+        artists:
+            - id: Blue Foundation
+            - id: skeler
+              for: remix
         duration: 2:54
         location:
             - url: https://soundcloud.com/skelermusic/n-i-g-h-t-d-r-i-v-e

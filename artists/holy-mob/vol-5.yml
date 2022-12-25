@@ -3,152 +3,152 @@ artist: Holy Mob
 duration: 41:06
 genre: Phonk
 released: "2018-02-14"
-cover: https://raw.githubusercontent.com/phonkhub/db/master/artists/holy-mob/vol-5/cover.jpg
+cover: https://f4.bcbits.com/img/a0868134399_10.jpg
 track_count: 13
 tracks:
-  1:
-    name: Play Your Cards Right
-    artists:
-        - Von Storm
-        - Caspian Rose
-    location:
-      - url: https://holymob.bandcamp.com/track/play-your-cards-right
-      - url: https://soundcloud.com/holymob/volume5
-        at: 0:00
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 0:00
-    sample:
-      - artist: The Dramatics
-        name: What You See Is What You Get
-        type: beat
-      - artist: Hard D
-        name: Play My Cards Right
-        type: vocals
-  2:
-    name: Yo Bitch a Fiend
-    artists:
-        - Inteus
-        - Caspian Rose
-    location:
-      - url: https://holymob.bandcamp.com/track/yo-bitch-a-fiend
-      - url: https://soundcloud.com/holymob/volume5
-        at: 03:05
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 03:05
-  3:
-    name: Overdosed
-    artist: Ponsuda
-    location:
-      - url: https://holymob.bandcamp.com/track/overdosed
-      - url: https://soundcloud.com/holymob/volume5
-        at: 07:35
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 07:35
-  4:
-    name: More Than Me
-    artist: Caspian Rose
-    location:
-      - url: https://holymob.bandcamp.com/track/more-than-me
-      - url: https://soundcloud.com/holymob/volume5
-        at: 11:16
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 11:16
-    sample:
-      - artist: Gucci Mane
-        name: Break Dancin'
-        type: vocals
-        starts: 0:40
-  5:
-    name: Pull That Trigga
-    artist: Von Storm
-    location:
-      - url: https://holymob.bandcamp.com/track/pull-that-trigga
-      - url: https://soundcloud.com/holymob/volume5
-        at: 14:41
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 14:41
-    sample:
-      - artist: Paul Martin
-        name: Le Troublant Témoignage De Paul Martin
-        type: beat
-  6:
-    name: Demons In My Soul
-    artists:
-        - Inteus
-        - Gali
-        - Ponsuda
-    location:
-      - url: https://holymob.bandcamp.com/track/demons-in-my-soul
-      - url: https://soundcloud.com/holymob/volume5
-        at: 18:24
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 18:24
-  7:
-    name: Thirsty
-    artist: Vedebe
-    location:
-      - url: https://holymob.bandcamp.com/track/thirsty
-      - url: https://soundcloud.com/holymob/volume5
-        at: 21:11
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 21:11
-  8:
-    name: Grigia
-    artists:
-        - Inteus
-        - l v k s
-    location:
-      - url: https://holymob.bandcamp.com/track/grigia
-      - url: https://soundcloud.com/holymob/volume5
-        at: 23:46
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 23:46
-  9:
-    name: Make a Move
-    artist: Redhands
-    location:
-      - url: https://holymob.bandcamp.com/track/make-a-move
-      - url: https://soundcloud.com/holymob/volume5
-        at: 26:32
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 26:32
-  10:
-    name: Shyne
-    artist: Sheltr
-    location:
-      - url: https://holymob.bandcamp.com/track/shyne
-      - url: https://soundcloud.com/holymob/volume5
-        at: 29:35
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 29:35
-    sample:
-      - artist: Lamont Dozier
-        name: Shine
-        type: beat
-  11:
-    name: Lay It Down
-    artist: Gali
-    location:
-      - url: https://holymob.bandcamp.com/track/lay-it-down
-      - url: https://soundcloud.com/holymob/volume5
-        at: 32:38
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 32:38
-  12:
-    name: Overlords
-    artist: Necroez
-    location:
-      - url: https://holymob.bandcamp.com/track/overlords
-      - url: https://soundcloud.com/holymob/volume5
-        at: 34:57
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 34:57
-  13:
-    name: Take It to Myself
-    artist: Inteus
-    location:
-      - url: https://holymob.bandcamp.com/track/take-it-to-myself
-      - url: https://soundcloud.com/holymob/volume5
-        at: 37:16
-      - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
-        at: 37:16
+    1:
+        name: Play Your Cards Right
+        artists:
+            - id: von-storm
+            - id: caspian-rose
+        location:
+            - url: https://holymob.bandcamp.com/track/play-your-cards-right
+            - url: https://soundcloud.com/holymob/volume5
+              at: 0:00
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 0:00
+        sample:
+            - artist: The Dramatics
+              name: What You See Is What You Get
+              type: beat
+            - artist: Hard D
+              name: Play My Cards Right
+              type: vocals
+    2:
+        name: Yo Bitch a Fiend
+        artists:
+            - id: inteus
+            - id: caspian-rose
+        location:
+            - url: https://holymob.bandcamp.com/track/yo-bitch-a-fiend
+            - url: https://soundcloud.com/holymob/volume5
+              at: 03:05
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 03:05
+    3:
+        name: Overdosed
+        artist: ponsuda
+        location:
+            - url: https://holymob.bandcamp.com/track/overdosed
+            - url: https://soundcloud.com/holymob/volume5
+              at: 07:35
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 07:35
+    4:
+        name: More Than Me
+        artist: caspian-rose
+        location:
+            - url: https://holymob.bandcamp.com/track/more-than-me
+            - url: https://soundcloud.com/holymob/volume5
+              at: 11:16
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 11:16
+        sample:
+            - artist: Gucci Mane
+              name: Break Dancin'
+              type: vocals
+              starts: 0:40
+    5:
+        name: Pull That Trigga
+        artist: von-storm
+        location:
+            - url: https://holymob.bandcamp.com/track/pull-that-trigga
+            - url: https://soundcloud.com/holymob/volume5
+              at: 14:41
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 14:41
+        sample:
+            - artist: Paul Martin
+              name: Le Troublant Témoignage De Paul Martin
+              type: beat
+    6:
+        name: Demons In My Soul
+        artists:
+            - id: inteus
+            - id: gali
+            - id: ponsuda
+        location:
+            - url: https://holymob.bandcamp.com/track/demons-in-my-soul
+            - url: https://soundcloud.com/holymob/volume5
+              at: 18:24
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 18:24
+    7:
+        name: Thirsty
+        artist: vedebe
+        location:
+            - url: https://holymob.bandcamp.com/track/thirsty
+            - url: https://soundcloud.com/holymob/volume5
+              at: 21:11
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 21:11
+    8:
+        name: Grigia
+        artists:
+            - id: inteus
+            - id: l v k s
+        location:
+            - url: https://holymob.bandcamp.com/track/grigia
+            - url: https://soundcloud.com/holymob/volume5
+              at: 23:46
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 23:46
+    9:
+        name: Make a Move
+        artist: Redhands
+        location:
+            - url: https://holymob.bandcamp.com/track/make-a-move
+            - url: https://soundcloud.com/holymob/volume5
+              at: 26:32
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 26:32
+    10:
+        name: Shyne
+        artist: sheltr
+        location:
+            - url: https://holymob.bandcamp.com/track/shyne
+            - url: https://soundcloud.com/holymob/volume5
+              at: 29:35
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 29:35
+        sample:
+            - artist: Lamont Dozier
+              name: Shine
+              type: beat
+    11:
+        name: Lay It Down
+        artist: gali
+        location:
+            - url: https://holymob.bandcamp.com/track/lay-it-down
+            - url: https://soundcloud.com/holymob/volume5
+              at: 32:38
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 32:38
+    12:
+        name: Overlords
+        artist: necroez
+        location:
+            - url: https://holymob.bandcamp.com/track/overlords
+            - url: https://soundcloud.com/holymob/volume5
+              at: 34:57
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 34:57
+    13:
+        name: Take It to Myself
+        artist: inteus
+        location:
+            - url: https://holymob.bandcamp.com/track/take-it-to-myself
+            - url: https://soundcloud.com/holymob/volume5
+              at: 37:16
+            - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
+              at: 37:16

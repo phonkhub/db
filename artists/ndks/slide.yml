@@ -5,13 +5,14 @@ genre: Phonk
 released: 2020-07-21
 cover: "https://i1.sndcdn.com/artworks-Rrns2MjwJzj6ZKe8-lZAjVg-large.jpg"
 tracks:
-  "1":
-    name: Slide
-    duration: "3:39"
-    artists:
-      - NDKS
-      - Doloklein
-      - Deishin
-    location:
-      - url: "https://soundcloud.com/indeksjunts/slide-w-doloklein-deishin"
+    "1":
+        name: Slide
+        duration: "3:39"
+        artists:
+            - id: NDKS
+            - id: Doloklein
+            - id: Deishin
+        location:
+            - url: "https://soundcloud.com/indeksjunts/slide-w-doloklein-deishin"
+        wave: "FBkgIiQmJikrLS8vMS8tLS0vLy8xODw8PD04PEM/PD1DRUxFSEhISkFHTEhBQ0NKSEdMQ0dDTFFQW1xZUVlgcmltcHRrZ2dtb29tbXJrZm1rcIF0em14en2Biop7dIR7fYN7fYGBf4GBfYp9iIyRlZWEgYaIhoaEl5OEeIyKtpmioK2nmqCtmZmasqKOiJOIg4icmZWgmZmGnJmMg5WXk6OTnKOPlYaIk4Z7e3+IfX+Dhnh7f4+DjI+gb4aMnpqXlaOOjoaMj46Piop/iH2BhJmBjIGPjI+PoJmIg4+IhIqOlaeVooyRnqWcoKOrqa2iq6Orrsa7wcbKxM357NPY2Nja2NzN0dPNv7S/ubK7tvXn1trT09HW3NPT0fXp3tXYyNHByre/qfLc2tjP4NHq99Ph3tz19dbM3Nj38Nzc2tPY0diysLf06rCyrbLW2Pfh4NPl0cre+dzazPXp2NrazdzP48/a09zT9NbWzdP09Orc3OHw8trc3tX56tza4eHj3tbR3tXVzMzPzMzTzfnj3Nja1dXV1dHIyvDY0djY4dHR4Nbe8PDg1s/c+fX39dXj2NX17tjV4NP549jT2tzc2NG0v67y3OHc3Nzh0/XY3tbe3PXT4+DV3PTY5+Dn2trV0ePh8vDV3tbj8vD17OHh4NPg1ePY0dr13trj4OPh09bYytHPzMG7va69zffe4dzY3NbY2MrB9PTV2trWysrR1tHK9OzT0dPTzMr36dXR5dP56tyu9+z14Nra3t7PzcbCq7f0yK2jtL/V9PfW2Nre9/Xa2tXR08S/u7+/tKm3sLC0t7e0sLm/u7TCrraru7K2tLC2srD50dbN1c/NxNbEzMTaz9zY08/R9/LW1eDWyMrV2s/R9+7T0djP1dXYzczPz8r13tPTysz04dba3sLKzPvg2NH108/c09XV0dHP2M/a6vTc2NXW9/Tc3N7W9eXYvdHV9enT2tPGzL3RtM/G9OnN09jV9ez13N7W48/11tjw8PT12tra2t7W2NbKzfXu1djNsLe3+efa4eDR9ene1fTq9O7j5drT1tzV0crT9Of14dzV0+X11djV4Pf32tz39fLw0d7P2OHV1cantru29OnR3tbM+eXp3OnW99bj49jK9OnY1c/R3t7NrrK21tzy2NjR2Of02NjY2NjY2tPV0fXp2uP77tzR9fLR0/fp2tP14c3I9+nPyvXj4Nz54djW9OHa2PvN2Nz02Mzc9dPV9/XVz/TyxMTy483a+fDe0/vu3Nb76tHV9+nY2vTlysL14MjC9+zRyvTszMb53s/K9czTzPnKzfXy2trw9NbV9PLe1uXMytHVzcq0rbTVyPnW2ufa4dXN2tzc3PLe8trKq6Ce997PzNbR9OPW2M3q9dzV8vXN1e7y6fT37vLgyMj08PXj9N7gyPXl1tb16f/a3Nba2tPT1srNz/Xh9dbIoKXg99zT0d7y9c3Y0c358srPzcjIxNrK1b/07MzPyMT14/LlzM3YyMi/yMG/v7a2sK2uq66ytK65o7mjq6u0mZ6eo5mnpamjoo+OiISDf3+DjoqZjpWZoKWtpZGVmY+cmq2psLu2p66gtra0squinpyampmXpZWgmZGGmpmlnpycmZOclaeRopGOioGOeIGGhn19hJePqZqno56ZmY6enK6lp5yXk66jiH1w1vnRz9XM08zTz8rCvcS/v7u5u7D36djM1sjPzcjCwsT36tPRysrIxtyZqaXy6c/IyMHIv/Xa2M3VxvXT1tza+fDP083R08rKxsLBytXT0/fqzNH159bK2sjRzfTq4c317NHMyMbBwdrBwsLKyPfgzM/C4PXV0eDR+fXT1uDWzMG/q665rq3GpbKwpaW5rtXR08/159XR4M3M09PYxsL37NjT0crPxtygt8Lw0dHVysTN9/TW3t7I9PfY0+De++7a1dPaz8/YzczTzdzT1vfh1c/35drV4MbMyvXn5c/0083MyMLPz9bCzMjN7vnNz9jY8vTP09zW08G2tsrY+eHj2NXWz9bazMzIwsTEwsHG+eD15d7V3M3RxsrGyOn3zMzIxMjG09bGxPDu1dPVz8/P8uzc09zP9+fW1dzl+d7W2tbY49jy4N7R7NrY09bNysb11d7c1srPws/19PLyzcbGxsTC08HGzczC9OHPyMzK4Nra2tzN8uXY5drY3NbVz8rGxMTCvb29uba7sq20q6ejo62ioJyck5eRkcS7t7Syrqmrq62nrqOjnpycmZeVsKurp6egnpmgoJWTpaCioJycnJOXkZWMiISGgYF6dnBycnJra21mZmBcW3Z2cnJvbWlpZ2dnYm1nZmReYGBgZGBgYFtZXl5eWVxVWVVTU1BOTEpKR0dFQT8/PTw6NjQzMS8tKykoJiAdGRIAAAAAAAAA"
 track_count: 1
