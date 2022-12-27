@@ -6,11 +6,11 @@ released: 2022-09-04
 cover: https://i1.sndcdn.com/artworks-fzXlBFpdHK7tzJ9w-UNLLYQ-t500x500.jpg
 track_count: 1
 tracks:
-  1:
-    name: Stacks On Deck
-    artists:
-      - Syredu
-      - Yung Grunge
-    duration: 3:25
-    location:
-      - url: https://soundcloud.com/syredu/stack-on-rack
+    1:
+        name: Stacks On Deck
+        artists:
+            - id: syredu
+            - id: yung grunge
+        duration: 3:25
+        location:
+            - url: https://soundcloud.com/syredu/stack-on-rack

@@ -5,154 +5,144 @@ genre: Phonk
 released: 2017-02-14
 cover: "https://f4.bcbits.com/img/a3811401784_10.jpg"
 tracks:
-  "1":
-    name: Intro
-    duration: "00:00:37"
-    location:
-      - url: "https://holymob.bandcamp.com/track/intro"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 0:00
-      - url: "https://open.spotify.com/track/3tZ5NwcxlpROao7RY3dFTN"
-  "2":
-    name: Half Dead
-    duration: "00:04:00"
-    artists:
-      - Caspian Rose
-      - Inteus
-    location:
-      - url: "https://holymob.bandcamp.com/track/half-dead"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 0:36
-      - url: "https://open.spotify.com/track/0gy25TKkZmHvhquZcrCJqq"
-  "3":
-    name: Holy Joint
-    duration: "00:01:20"
-    artists:
-      - Lunatic
-      - l v k s
-    location:
-      - url: "https://holymob.bandcamp.com/track/holy-joint"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 03:22
-      - url: "https://open.spotify.com/track/7C0WDQIRTdLttgmW71AQm3"
-  "4":
-    name: Warzone
-    duration: "00:02:16"
-    artists:
-      - Gali
-    location:
-      - url: "https://holymob.bandcamp.com/track/warzone"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 04:42
-      - url: "https://open.spotify.com/track/1zFDv6cHadmVFGzZWCDpGy"
-  "5":
-    name: Mob Party
-    duration: "00:02:32"
-    artists:
-      - Necroez
-    location:
-      - url: "https://holymob.bandcamp.com/track/mob-party"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 06:59
-      - url: "https://open.spotify.com/track/3sOMhuudQTfbjlzyzZK7Ap"
-  "6":
-    name: Break Out da Glock
-    duration: "00:03:22"
-    artists:
-      - Inteus
-    location:
-      - url: "https://holymob.bandcamp.com/track/break-out-da-glock"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 09:31
-      - url: "https://open.spotify.com/track/3sOMhuudQTfbjlzyzZK7Ap"
-  "7":
-    name: Scarecrow
-    duration: "00:02:40"
-    artists:
-      - l v k s
-    location:
-      - url: "https://holymob.bandcamp.com/track/scarecrow"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 12:47
-      - url: "https://open.spotify.com/track/3Nzkb97HkUHLIlXrk96qt7"
-  "8":
-    name: Gangsta Forever
-    duration: "00:02:56"
-    artists:
-      - Von Storm
-    location:
-      - url: "https://holymob.bandcamp.com/track/gangsta-forever"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 15:28
-      - url: "https://open.spotify.com/track/6zn9Tu6wtHntEjf8TrdObC"
-  "9":
-    name: Sauce
-    duration: "00:02:52"
-    artists:
-      - Vedebe
-    location:
-      - url: "https://holymob.bandcamp.com/track/sauce"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 18:24
-  "10":
-    name: Psychopathic
-    duration: "00:01:56"
-    artists:
-      - Lunatic
-    location:
-      - url: "https://holymob.bandcamp.com/track/psychopathic"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 21:16
-  "11":
-    name: Down with tha Click
-    duration: "00:02:20"
-    artists:
-      - Sheltr
-    location:
-      - url: "https://holymob.bandcamp.com/track/down-with-tha-click"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 23:13
-      - url: "https://open.spotify.com/track/3w1Td2oGRQVnotEReokrha"
-  "12":
-    name: Glock Cocked
-    duration: "00:02:48"
-    artists:
-      - Puar
-    location:
-      - url: "https://holymob.bandcamp.com/track/glock-cocked"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 25:35
-      - url: "https://open.spotify.com/track/0V48UkG4IP4RQhazyL5TKN"
-  "13":
-    name: Bezel
-    duration: "00:02:24"
-    artists:
-      - Gali222
-      - l v k s
-    location:
-      - url: "https://holymob.bandcamp.com/track/bezel"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 28:17
-      - url: "https://open.spotify.com/track/4KD9D26B8PSTVPJusaHO66"
-  "14":
-    name: Put It Up on Me
-    duration: "00:02:53"
-    artists:
-      - Von Storm
-      - Inteus
-    location:
-      - url: "https://holymob.bandcamp.com/track/put-it-up-on-me"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 30:42
-      - url: "https://open.spotify.com/track/3cbIHolEw2azm4AmpcQxeg"
-  "15":
-    name: Salad Fingers
-    duration: "00:03:23"
-    artists:
-      - Caspian Rose
-    location:
-      - url: "https://holymob.bandcamp.com/track/salad-fingers"
-      - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
-        at: 33:30
-      - url: "https://open.spotify.com/track/7cLKv7exB9g1YeGdVigGfa"
+    "1":
+        name: Intro
+        duration: "00:00:37"
+        location:
+            - url: "https://holymob.bandcamp.com/track/intro"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 0:00
+            - url: "https://open.spotify.com/track/3tZ5NwcxlpROao7RY3dFTN"
+    "2":
+        name: Half Dead
+        duration: "00:04:00"
+        artists:
+            - id: caspian-rose
+            - id: inteus
+        location:
+            - url: "https://holymob.bandcamp.com/track/half-dead"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 0:36
+            - url: "https://open.spotify.com/track/0gy25TKkZmHvhquZcrCJqq"
+    "3":
+        name: Holy Joint
+        duration: "00:01:20"
+        artists:
+            - id: lunatic
+            - id: lvks
+        location:
+            - url: "https://holymob.bandcamp.com/track/holy-joint"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 03:22
+            - url: "https://open.spotify.com/track/7C0WDQIRTdLttgmW71AQm3"
+    "4":
+        name: Warzone
+        duration: "00:02:16"
+        artist: gali
+        location:
+            - url: "https://holymob.bandcamp.com/track/warzone"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 04:42
+            - url: "https://open.spotify.com/track/1zFDv6cHadmVFGzZWCDpGy"
+    "5":
+        name: Mob Party
+        duration: "00:02:32"
+        artist: necroez
+        location:
+            - url: "https://holymob.bandcamp.com/track/mob-party"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 06:59
+            - url: "https://open.spotify.com/track/3sOMhuudQTfbjlzyzZK7Ap"
+    "6":
+        name: Break Out da Glock
+        duration: "00:03:22"
+        artist: inteus
+        location:
+            - url: "https://holymob.bandcamp.com/track/break-out-da-glock"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 09:31
+            - url: "https://open.spotify.com/track/3sOMhuudQTfbjlzyzZK7Ap"
+    "7":
+        name: Scarecrow
+        duration: "00:02:40"
+        artist: lvks
+        location:
+            - url: "https://holymob.bandcamp.com/track/scarecrow"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 12:47
+            - url: "https://open.spotify.com/track/3Nzkb97HkUHLIlXrk96qt7"
+    "8":
+        name: Gangsta Forever
+        duration: "00:02:56"
+        artist: von-storm
+        location:
+            - url: "https://holymob.bandcamp.com/track/gangsta-forever"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 15:28
+            - url: "https://open.spotify.com/track/6zn9Tu6wtHntEjf8TrdObC"
+    "9":
+        name: Sauce
+        duration: "00:02:52"
+        artist: vedebe
+        location:
+            - url: "https://holymob.bandcamp.com/track/sauce"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 18:24
+    "10":
+        name: Psychopathic
+        duration: "00:01:56"
+        artist: lunatic
+        location:
+            - url: "https://holymob.bandcamp.com/track/psychopathic"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 21:16
+    "11":
+        name: Down with tha Click
+        duration: "00:02:20"
+        artist: sheltr
+        location:
+            - url: "https://holymob.bandcamp.com/track/down-with-tha-click"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 23:13
+            - url: "https://open.spotify.com/track/3w1Td2oGRQVnotEReokrha"
+    "12":
+        name: Glock Cocked
+        duration: "00:02:48"
+        artist: puar
+        location:
+            - url: "https://holymob.bandcamp.com/track/glock-cocked"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 25:35
+            - url: "https://open.spotify.com/track/0V48UkG4IP4RQhazyL5TKN"
+    "13":
+        name: Bezel
+        duration: "00:02:24"
+        artists:
+            - id: gali
+            - id: lvks
+        location:
+            - url: "https://holymob.bandcamp.com/track/bezel"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 28:17
+            - url: "https://open.spotify.com/track/4KD9D26B8PSTVPJusaHO66"
+    "14":
+        name: Put It Up on Me
+        duration: "00:02:53"
+        artists:
+            - id: von-storm
+            - id: inteus
+        location:
+            - url: "https://holymob.bandcamp.com/track/put-it-up-on-me"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 30:42
+            - url: "https://open.spotify.com/track/3cbIHolEw2azm4AmpcQxeg"
+    "15":
+        name: Salad Fingers
+        duration: "00:03:23"
+        artist: caspian-rose
+        location:
+            - url: "https://holymob.bandcamp.com/track/salad-fingers"
+            - url: "https://soundcloud.com/holymob/holy-mob-volume-1"
+              at: 33:30
+            - url: "https://open.spotify.com/track/7cLKv7exB9g1YeGdVigGfa"
 track_count: 15

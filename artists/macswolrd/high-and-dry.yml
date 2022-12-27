@@ -6,11 +6,11 @@ released: 2019-04-22
 cover: https://i1.sndcdn.com/artworks-LXay4BVe4rVNDjV4-81y7Kg-t500x500.jpg
 track_count: 1
 tracks:
-  1:
-    name: High & Dry
-    artists:
-      - MACSWOLRD
-      - ISVVC
-    duration: 2:50
-    location:
-      - url: https://soundcloud.com/macswolrd/high-dry-w-isvvc
+    1:
+        name: High & Dry
+        artists:
+            - id: macswolrd
+            - id: isvvc
+        duration: 2:50
+        location:
+            - url: https://soundcloud.com/macswolrd/high-dry-w-isvvc
