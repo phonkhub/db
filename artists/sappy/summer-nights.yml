@@ -1,0 +1,13 @@
+---
+name: Summer Nights
+artist: Sappy
+genre: Trap
+released: 2016-05-30
+cover: "https://i1.sndcdn.com/artworks-000165119599-zbk133-t500x500.jpg"
+tracks:
+  "1":
+    name: Summer Nights
+    duration: 2:59
+    location:
+      - url: "https://soundcloud.com/sappy94/summer-nights"
+track_count: 1

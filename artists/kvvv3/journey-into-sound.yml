@@ -1,0 +1,48 @@
+---
+name: Journey Into Sound
+artist: kvvv3
+genre: Phonk
+released: 2020-04-30
+cover: "https://f4.bcbits.com/img/a0105972531_10.jpg"
+tracks:
+  "1":
+    name: Alice
+    duration: "00:04:43"
+    artists:
+      - kvvv3
+      - sway55
+    location:
+      - url: "https://kevmth.bandcamp.com/track/alice-ft-sway55"
+  "2":
+    name: "355"
+    duration: "00:03:12"
+    artists:
+      - kvvv3
+      - sway55
+    location:
+      - url: "https://kevmth.bandcamp.com/track/355-ft-sway55"
+  "3":
+    name: Double Cup
+    duration: "00:04:01"
+    artists:
+      - kvvv3
+      - sway55
+    location:
+      - url: "https://kevmth.bandcamp.com/track/double-cup-ft-sway55"
+  "4":
+    name: Angel Tears
+    duration: "00:02:17"
+    artists:
+      - kvvv3
+      - sway55
+    location:
+      - url: "https://kevmth.bandcamp.com/track/angel-tears-ft-sway55"
+  "5":
+    name: Skygarden
+    duration: "00:04:14"
+    artists:
+      - kvvv3
+      - sway55
+    location:
+      - url: "https://kevmth.bandcamp.com/track/skygarden-ft-sway55"
+track_count: 5

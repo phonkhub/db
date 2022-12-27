@@ -1,0 +1,17 @@
+---
+name: Trip To Heaven
+artist: kvvv3
+genre: Phonk
+released: 2021-01-17
+cover: "https://i1.sndcdn.com/artworks-ePn2LaeghCMRt2Yp-qmSLmw-t500x500.jpg"
+tracks:
+  "1":
+    name: Trip To Heaven
+    duration: 3:00
+    artists:
+      - kvvv3
+      - Sway55
+      - Existanze
+    location:
+      - url: "https://soundcloud.com/kevmth/trip-to-heaven"
+track_count: 1

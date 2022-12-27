@@ -1,0 +1,13 @@
+---
+name: Leave Me Again
+artist: kvvv3
+genre: Phonk
+released: 2020-10-14
+cover: "https://i1.sndcdn.com/artworks-d7U5JXXr2PGyx8Di-8NZdRg-t500x500.jpg"
+tracks:
+  "1":
+    name: Leave Me Again
+    duration: 2:48
+    location:
+      - url: "https://soundcloud.com/kevmth/leave-me"
+track_count: 1

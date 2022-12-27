@@ -1,0 +1,13 @@
+---
+name: DOPE
+artist: spell
+genre: Phonk
+released: 2022-11-02
+cover: "https://i1.sndcdn.com/artworks-gjEhjp530qe98Q2C-Ww19GQ-t500x500.jpg"
+tracks:
+  "1":
+    name: DOPE
+    duration: 4:36
+    location:
+      - url: "https://soundcloud.com/prod_spell/dope"
+track_count: 1

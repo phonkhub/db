@@ -1,0 +1,19 @@
+---
+name: Eternal
+artist: skucci
+genre: PHONK
+released: 2018-08-03
+cover: "https://i1.sndcdn.com/artworks-000383831961-fjo1tv-t500x500.jpg"
+tracks:
+  "1":
+    name: Eternal
+    duration: "0:3:27"
+    artists: ~
+    remix: ~
+    artist_cover: ~
+    location:
+      - url: "https://soundcloud.com/skuccimusic/eternal"
+        at: ~
+    sample: ~
+    lyrics: ~
+track_count: 1

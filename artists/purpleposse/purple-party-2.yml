@@ -1,0 +1,98 @@
+---
+name: Purple Party 2
+artist: Purple Posse
+genre: Phonk
+released: 2017-11-19
+cover: "https://f4.bcbits.com/img/a1574958036_10.jpg"
+tracks:
+  "1":
+    name: PURPLE VISION
+    duration: "00:02:42"
+    artists:
+      - SOUDIERE
+      - EMUNE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/purple-vision"
+  "2":
+    name: GRAVE
+    duration: "00:02:37"
+    artists:
+      - ASERI
+      - MYTHIC
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/grave"
+  "3":
+    name: CATCH UP
+    duration: "00:02:57"
+    artists:
+      - HYMBEATS
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/catch-up"
+  "4":
+    name: SUC ON DA RISE
+    duration: "00:04:13"
+    artists:
+      - TRIPPYMANE
+      - MYTHIC
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/suc-on-da-rise"
+  "5":
+    name: "TRIPPIN' OFF A PILL"
+    duration: "00:04:13"
+    artists:
+      - SHAQ FRANCE
+      - SOUDIERE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/trippin-off-a-pill"
+  "6":
+    name: CELL
+    duration: "00:03:26"
+    artists:
+      - BACKWHEN
+      - EMUNE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/cell"
+  "7":
+    name: SCOOP 93
+    duration: "00:06:23"
+    artists:
+      - GRAVY
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/scoop-93"
+  "8":
+    name: MANGO
+    duration: "00:02:34"
+    artists:
+      - ASERI
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/mango"
+  "9":
+    name: BUBBLE THRAX
+    duration: "00:02:46"
+    artists:
+      - BACKWOOD BOY
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/bubble-thrax"
+  "10":
+    name: BUSTAZ
+    duration: "00:04:07"
+    artists:
+      - HYM
+      - SOUDIERE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/bustaz"
+  "11":
+    name: SHADOW BOXING
+    duration: "00:03:45"
+    artists:
+      - EMUNE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/shadow-boxing"
+  "12":
+    name: "SNEEK DISSIN'"
+    duration: "00:02:14"
+    artists:
+      - SOUDIERE
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/sneek-dissin"
+track_count: 12

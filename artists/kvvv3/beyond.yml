@@ -1,0 +1,17 @@
+---
+name: Beyond
+artist: kvvv3
+genre: Phonk
+released: 2021-05-14
+cover: "https://i1.sndcdn.com/artworks-Dj6qZipNmBbc8BHQ-y60rAA-t500x500.jpg"
+tracks:
+  "1":
+    name: Beyond
+    duration: 3:53
+    artists:
+      - kvvv3
+      - rvfvel
+      - Existanze
+    location:
+      - url: "https://soundcloud.com/kevmth/beyond-ft-rvfvel-existanze"
+track_count: 1
