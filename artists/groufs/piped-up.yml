@@ -1,0 +1,17 @@
+---
+name: Piped Up
+artist: groufs
+genre: PHONK
+released: 2018-09-07
+cover: "https://i1.sndcdn.com/artworks-000401302851-w6j18m-t500x500.jpg"
+tracks:
+  "1":
+    name: Piped Up
+    duration: 03:25
+    artists:
+      - id: groufs
+      - id: lord-sesshomaru
+    location:
+      - url: "https://soundcloud.com/groufs/piped-upw-lord-sesshomaru"
+    wave: k7KeopGVpae7t6eTo66prpmcmo+MhoSOhHijqaOcmqJ6lZeMp665v7SnqcHGtKelnpqTioqenJmTk4iGrca0rbKrys3BssjEq8LIu66wys3BmY67wbZ/enp7enZ9k6Wurquwramak5GurqKtl5OGhrfMv8LEv7/CyMKpjquppb/IxMS5t7e2rrmirq6amZWgjIZ9g4aEf3SRj5GIkbu3tLCeqcHKsKmnoKKZipyunJqRjoyErciurqmjt8TPt7ujyqeuxsG3p7CgqZqlp7Kynvel98iwtKvIyr/KtrCyv7TB5b3svbb3sPX5yPf39Pn3+/XVz8bB0/fs3NP5+dPT1t7N9f/PzOzR+ffPxMK9+ey7xsS9vezY3M3M0fn3ytHW3PnCxOnT+/m9vePC+erNzcTg4Ors08z598zW2tPe1fnIwufc+fe7u/n3/eX5083K1enWzNPMwvn3xNPK9/nBv/Dat6utoOW3+fK5wru/0ezs3Mz5+c3N09rW+ffPzeXV+ffPxsLI9+q9v8S/v+Pc1c3Kzfn1ytPW9fnGxO7V+fe9v97C++7GzcbV3vDq0835+c3Y3tXj1fnEwu7T+ffPyPn1+fL54c3W4erczNPK3Pf31szV+fnNz+rn+fnVyvLM+fC9wsj3+fLc3tb799XN2NXY+fnM0efexL+3wtW7+eDGwdzj1uPa4czM0/n52NH09P3NyOze+fnRzcrB++zMz+Hg4Ozq0bvN1fn009Pj6fvPv/LV+fvN0/n3+fC5wtj7+ercytPC0/n3yNjy9/vPyuXK+/v599bM+eq9v6v7/ezh2t73+dXR3N7T+/vRwvLetMa5wdO/+e7WxsrWz+fj2MjNz/n32NP3+fvRyOna+ffI3NO9++zPzdXc4+zhyr3Y3v31zdXj9/vh1u7p+fnM0fn3+fK/1s/5+fDa08bR2NHEyMjwyNjGyNbq07LEuey0+d7TzNH7+ere1tXM2vn02N79+fnT1efV+ffMyPn5+djh3Orgz/Thzc3I4/ny2PX99f3WyunTyL/a5drB4e7h3NPs0eXCtK6/0bm9zNPRwdbCwuq7o7/3+fnC+/f5yNzW2ufMzcTN1fn11c/y9fve5/DP+ff99eDc+eDRzdH7+fLj5djPxvvp1uD79/nCz+zTrcL5+fn5+eHV3ufh2ungzczIyP3u2OXy9/vGzP33svnT9/fI+dq/wsjIxufIv8H59/n11uDVxtPg1enIrr/CzNHC9/f52tHYzefKzcLYzfv00c3y+fvM0+70+/f59ezN6tGgl8jItsre1b/N58zK4M/CysS5u8TMt8inubaIv8TBl7TGubnVz8Kwt7m90crIwbKlkYyroKe5rquKtNPGvaLW2Na9p5WakbDKxsa7sJeOiKuEho6Mf319gYaGp7m/xsGrrq6Zk5ywpZWak5OIgbSGhn2BhIR7q7Ktrq6r0ezayrfB1cjIt83Bpbm3ucjMp72roIyKwaC9o8GZruHc1cy/1sjYxrbKu6vBmq2uqbayjJGEucy5udHV1unarqLBxLbGxtXWss+0ntbGoIa/v5ePmY+XxtjEwcHCq6vKzb/KsuDqntGul97s3pWgkfXB+ePTz9H5++Pn49zR2vfj2Pf5+fnCwunV+ffMxvn5+c/V3uPazezKxsjIyPns1fn5+fnEze7GyL+7t/S0+c3EzcjKwezg1dPN4PnY6dzWz97T1ezGttzqudjR/fn5ysrp6efWzcTe1vvl4Ofe+fnN1erP/ffnveX3+dzRz8/7+ern1tzM2Pnj3Pf5+fnCxOfN+/nwxvn5+8/V3uXayu7KyMzKyv3s2Pf5+/vBzenIwsK7ufSy+czG08TIxPTh1tjc4fna3OXh2OPPz+fTrcrhq83B+ff52NHa4eXczMTK0fva4+Pa+/vV1ezw+fT57PnVt6WPiNGpucTlytHGxr27yM/BnL3Ewo+9opmev6mE1auul8a5vbbN2ruwv9PNxLu2rbu9k5zGpZ7IvaOIucqysLDM0dXGrqOglbTBv8G5q6WcjI+OjoiBfXt/en2Doq20ubS0raeZlZy2q6KcmpN/gX+DgXt9e3rp+dqcldX5+dza1bb53rfBz82n+fePq9aZtrmEtJrp9Y+OoJWZms2/u7SrtvTGu8Ll9fScisqj9NqXk5HM8NjR1s/B49rn0c/ExvDW3srn7uzPqcye7Ol/eOrp6n1/oqPp6sqyraKTjOe0oszR4+WKf72P5eDhj3ja4ZWMg4je3sSypZzawaClqZmT1tiMg7KKenCMeHvE0Yx2hIh9faejnpeTk8iipZO0xMSEfaCDv610cG+cu5ORhH+VmaCOfXRyZquEhIp/pad0YoZtnpVpVZmVlWBOZ2mOjHJpYl5ZU39cWWdrb29DPFNDW1dRLyIZ
+track_count: 1
