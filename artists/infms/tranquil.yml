@@ -9,7 +9,7 @@ tracks:
     1:
         name: Tranquil
         artists:
-            - id: iNFMS
+            - id: infms
             - id: kalibvr
         duration: 4:41
         location:

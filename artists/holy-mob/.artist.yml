@@ -1,5 +1,6 @@
 name: Holy Mob
 image: https://f4.bcbits.com/img/0012176292_10.jpg
+logo: https://cdn.shopify.com/s/files/1/2367/5749/files/HOLY_MOB_Volume_1_logo_-_black_2048x.png
 urls:
     - https://holymob.bandcamp.com/
     - https://soundcloud.com/holymob
@@ -7,12 +8,27 @@ urls:
 description: Underground producer collective.
 collective_members:
     - name: caspian-rose
+      joined: 2016
     - name: gali
+      joined: 2016
     - name: inteus
+      joined: 2016
     - name: lvks
+      joined: 2016
     - name: necroez
+      joined: 2016
     - name: ponsuda
+      joined: 2018
     - name: redhands
+      joined: 2017
     - name: sheltr
+      joined: 2016
     - name: vedebe
+      joined: 2016
     - name: von-storm
+    - name: lunatic
+      joined: 2016
+      left: 2017
+    - name: puar
+      joined: 2016
+      left: 2018

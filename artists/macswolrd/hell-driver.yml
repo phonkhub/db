@@ -5,16 +5,19 @@ genre: Phonk
 released: 2020-01-14
 cover: https://i1.sndcdn.com/artworks-Pqe2kubGDlUW1Umu-HeNZQw-t500x500.jpg
 track_count: 2
+urls:
+    - https://soundcloud.com/macswolrd/hell-driver
+    - https://open.spotify.com/album/28J8usg5NfU4Xzdh1m2ShN
 tracks:
-  1:
-    name: Hell Driver
-    duration: 2:00
-    location:
-      - url: https://soundcloud.com/macswolrd/hell-driver
-        at: 0:00
-  2:
-    name: Fantasm
-    duration: 2:05
-    location:
-      - url: https://soundcloud.com/macswolrd/hell-driver
-        at: 2:00
+    1:
+        name: Hell Driver
+        duration: 2:00
+        location:
+            - url: https://soundcloud.com/macswolrd/hell-driver
+              at: 0:00
+    2:
+        name: Fantasm
+        duration: 2:05
+        location:
+            - url: https://soundcloud.com/macswolrd/hell-driver
+              at: 2:00

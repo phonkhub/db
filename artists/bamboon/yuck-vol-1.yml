@@ -4,49 +4,53 @@ artist: Bamboon
 genre: Phonk
 released: 2021-11-15
 cover: "https://i1.sndcdn.com/artworks-uyFT2zYksCU9QIy3-nQkuIw-t500x500.jpg"
+urls:
+    - https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape
+    - https://open.spotify.com/album/06zBFgAAMgBIXq2OVAbo82
+    - https://music.apple.com/us/album/yuck-2/1651970213
 tracks:
-  "1":
-    name: "Just How I Do"
-    duration: 5:29
-    location:
-      - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
-        at: 0:00
-      - url: "https://open.spotify.com/track/6jihBgYbRDanwm4jszWwAn"
-  "2":
-    name: "Snake Skin"
-    artists:
-      - Bamboon
-      - ikabodVEINS
-    duration: 3:11
-    location:
-      - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
-        at: 5:15
-      - url: "https://open.spotify.com/track/1b2b79uo7Bh91xbum2f9EI"
-  "3":
-    name: "Uzi Cupid"
-    duration: 4:04
-    location:
-      - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
-        at: 8:18
-      - url: "https://open.spotify.com/track/1ZZLZEMsXaoQCXoXCe44zf?si=1494feca92724b3d"
-  "4":
-    name: "Toni Braxxxton"
-    artists:
-      - Bamboon
-      - ikabodVEINS
-    duration: 3:11
-    location:
-      - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
-        at: 12:09
-      - url: "https://open.spotify.com/track/3V1HvZf1RMgxDRsEoxqEPF"
-  "5":
-    name: "Raw Cocaine"
-    artists:
-      - Bamboon
-      - ikabodVEINS
-    duration: 4:55
-    location:
-      - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
-        at: 15:42
-      - url: "https://open.spotify.com/track/65RXXtg73HyfgcKmsnXJkP"
+    "1":
+        name: "Just How I Do"
+        duration: 5:29
+        location:
+            - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
+              at: 0:00
+            - url: "https://open.spotify.com/track/6jihBgYbRDanwm4jszWwAn"
+    "2":
+        name: "Snake Skin"
+        artists:
+            - id: bamboon
+            - id: ikabodveins
+        duration: 3:11
+        location:
+            - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
+              at: 5:15
+            - url: "https://open.spotify.com/track/1b2b79uo7Bh91xbum2f9EI"
+    "3":
+        name: "Uzi Cupid"
+        duration: 4:04
+        location:
+            - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
+              at: 8:18
+            - url: "https://open.spotify.com/track/1ZZLZEMsXaoQCXoXCe44zf?si=1494feca92724b3d"
+    "4":
+        name: "Toni Braxxxton"
+        artists:
+            - id: bamboon
+            - id: ikabodveins
+        duration: 3:11
+        location:
+            - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
+              at: 12:09
+            - url: "https://open.spotify.com/track/3V1HvZf1RMgxDRsEoxqEPF"
+    "5":
+        name: "Raw Cocaine"
+        artists:
+            - id: bamboon
+            - id: ikabodveins
+        duration: 4:55
+        location:
+            - url: "https://soundcloud.com/bamboonbeats/yuck-vol-1-ft-ikabodveins-full-mixtape"
+              at: 15:42
+            - url: "https://open.spotify.com/track/65RXXtg73HyfgcKmsnXJkP"
 track_count: 5

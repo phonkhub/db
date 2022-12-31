@@ -5,6 +5,10 @@ genre: Phonk
 released: "2018-02-14"
 cover: https://f4.bcbits.com/img/a0868134399_10.jpg
 track_count: 13
+urls:
+    - https://holymob.bandcamp.com/album/holy-mob-volume-5
+    - https://soundcloud.com/holymob/volume5
+    - https://www.youtube.com/watch?v=EqVpuKFoCzE
 tracks:
     1:
         name: Play Your Cards Right
@@ -96,7 +100,7 @@ tracks:
         name: Grigia
         artists:
             - id: inteus
-            - id: l v k s
+            - id: lvks
         location:
             - url: https://holymob.bandcamp.com/track/grigia
             - url: https://soundcloud.com/holymob/volume5
@@ -105,7 +109,7 @@ tracks:
               at: 23:46
     9:
         name: Make a Move
-        artist: Redhands
+        artist: redhands
         location:
             - url: https://holymob.bandcamp.com/track/make-a-move
             - url: https://soundcloud.com/holymob/volume5
