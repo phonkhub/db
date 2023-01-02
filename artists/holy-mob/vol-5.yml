@@ -12,6 +12,7 @@ urls:
 tracks:
     1:
         name: Play Your Cards Right
+        duration: 3:07
         artists:
             - id: von-storm
             - id: caspian-rose
@@ -22,12 +23,18 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 0:00
         sample:
-            - artist: The Dramatics
-              name: What You See Is What You Get
+            - id: the-dramatics-what-you-see-is-what-you-get
               type: beat
-            - artist: Hard D
-              name: Play My Cards Right
+              occurs:
+                  - from: 0:00
+                    to: end
+                    at: 0:00
+            - id: hard-d-play-my-cards-right
               type: vocals
+              occurs:
+                  - from: 0:00
+                    to: end
+                    at: 0:00
     2:
         name: Yo Bitch a Fiend
         artists:
@@ -51,6 +58,7 @@ tracks:
     4:
         name: More Than Me
         artist: caspian-rose
+        duration: 3:38
         location:
             - url: https://holymob.bandcamp.com/track/more-than-me
             - url: https://soundcloud.com/holymob/volume5
@@ -58,13 +66,16 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 11:16
         sample:
-            - artist: Gucci Mane
-              name: Break Dancin'
+            - id: gucci-mane-break-dancin
               type: vocals
-              starts: 0:40
+              occurs:
+                  - from: 0:40
+                    to: end
+                    at: 0:00
     5:
         name: Pull That Trigga
         artist: von-storm
+        duration: 3:43
         location:
             - url: https://holymob.bandcamp.com/track/pull-that-trigga
             - url: https://soundcloud.com/holymob/volume5
@@ -72,9 +83,12 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 14:41
         sample:
-            - artist: Paul Martin
-              name: Le Troublant Témoignage De Paul Martin
+            - id: paul-martin-le-troublant-temoignage-de-paul-martin
               type: beat
+              occurs:
+                  - from: 0:40
+                    to: end
+                    at: 0:00
     6:
         name: Demons In My Soul
         artists:
@@ -119,6 +133,7 @@ tracks:
     10:
         name: Shyne
         artist: sheltr
+        duration: 3:09
         location:
             - url: https://holymob.bandcamp.com/track/shyne
             - url: https://soundcloud.com/holymob/volume5
@@ -126,9 +141,12 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 29:35
         sample:
-            - artist: Lamont Dozier
-              name: Shine
+            - id: lamont-dozier-shine
               type: beat
+              occurs:
+                  - from: 0:00
+                    to: end
+                    at: 0:00
     11:
         name: Lay It Down
         artist: gali
