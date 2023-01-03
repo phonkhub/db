@@ -23,13 +23,17 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 0:00
         sample:
-            - id: the-dramatics-what-you-see-is-what-you-get
+            - media: song
+              artist: the-dramatics
+              name: what-you-see-is-what-you-get
               type: beat
               occurs:
                   - from: 0:00
                     to: end
                     at: 0:00
-            - id: hard-d-play-my-cards-right
+            - media: song
+              artist: hard-d
+              name: play-my-cards-right
               type: vocals
               occurs:
                   - from: 0:00
@@ -66,7 +70,9 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 11:16
         sample:
-            - id: gucci-mane-break-dancin
+            - media: song
+              artist: gucci-mane
+              name: break-dancin
               type: vocals
               occurs:
                   - from: 0:40
@@ -83,7 +89,9 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 14:41
         sample:
-            - id: paul-martin-le-troublant-temoignage-de-paul-martin
+            - media: song
+              artist: paul-martin
+              name: le-troublant-temoignage-de-paul-martin
               type: beat
               occurs:
                   - from: 0:40
@@ -141,7 +149,9 @@ tracks:
             - url: https://www.youtube.com/watch?v=EqVpuKFoCzE
               at: 29:35
         sample:
-            - id: lamont-dozier-shine
+            - media: song
+              artist: lamont-dozier
+              name: shine
               type: beat
               occurs:
                   - from: 0:00

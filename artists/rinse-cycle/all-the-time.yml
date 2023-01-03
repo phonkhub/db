@@ -11,13 +11,17 @@ tracks:
         location:
             - url: "https://soundcloud.com/rinse-cycle/all-the-time"
         sample:
-            - id: archie-bell-and-the-drells-strategy
+            - media: song
+              artist: archie-bell-and-the-drells
+              name: strategy
               type: beat
               occurs:
                   - from: 0:00
                     to: end
                     at: 0:00
-            - id: archie-bell-and-the-drells-strategy
+            - media: song
+              artist: archie-bell-and-the-drells
+              name: strategy
               type: vocals
               occurs:
                   - from: 1:04
@@ -26,7 +30,9 @@ tracks:
                   - from: 2:36
                     to: end
                     at: 0:00
-            - id: busta-rhymes-dangerous
+            - media: song
+              artist: busta-rhymes
+              name: dangerous
               type: vocals
               occurs:
                   - from: 0:18
