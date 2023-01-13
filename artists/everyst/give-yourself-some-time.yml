@@ -1,0 +1,105 @@
+---
+name: Give Yourself Some Time
+artist: everyst
+genre: Wave
+released: 2022-12-24
+cover: "https://f4.bcbits.com/img/a1851386523_10.jpg"
+urls:
+    - https://bamdcamp.bandcamp.com/album/give-yourself-some-time
+    - https://soundcloud.com/ripeveryst/give-yourself-some-time
+    - https://open.spotify.com/album/0QihyuFy5pe42Cts4OQAUS
+    - https://music.apple.com/us/album/give-yourself-some-time/1659065407
+tracks:
+    "1":
+        name: Bite
+        duration: "00:03:25"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/bite"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 0:00
+    "2":
+        name: "Don't Be Afraid"
+        duration: "00:04:06"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/dont-be-afraid"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 3:25
+    "3":
+        name: Skate
+        duration: "00:03:10"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/skate"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 7:30
+    "4":
+        name: Know Its True
+        duration: "00:03:37"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/know-its-true"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 10:39
+    "5":
+        name: Trapped
+        duration: "00:04:08"
+        artists:
+            - id: everyst
+            - id: backwhen
+            - id: necroez
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/trapped-feat-necroez"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 14:14
+    "6":
+        name: Euphoria
+        duration: "00:04:06"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/euphoria"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 18:18
+    "7":
+        name: Foolish
+        duration: "00:03:23"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/foolish"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 22:24
+    "8":
+        name: Man Down
+        duration: "00:02:59"
+        artists:
+            - id: everyst
+            - id: backwhen
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/man-down"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 25:41
+    "9":
+        name: Save Yourself
+        duration: "00:04:28"
+        artists:
+            - id: everyst
+            - id: backwhen
+            - id: necroez
+        location:
+            - url: "https://bamdcamp.bandcamp.com/track/save-yourself-feat-necroez"
+            - url: "https://soundcloud.com/ripeveryst/give-yourself-some-time"
+              at: 28:40
+track_count: 9
