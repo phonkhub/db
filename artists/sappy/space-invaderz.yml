@@ -1,0 +1,38 @@
+---
+name: Space Invaderz
+artist: sappy
+genre: Phonk
+released: 2017-12-08
+cover: "https://f4.bcbits.com/img/a1696556537_10.jpg"
+urls:
+  - https://sappy94.bandcamp.com/album/space-invaderz-ep
+  - https://soundcloud.com/sappy94/space-invaderz-ep
+tracks:
+  "1":
+    name: Wormhole
+    duration: 4:56
+    location:
+      - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 0:00
+  "2":
+    name: Crystal Planet
+    duration: 4:37
+    location:
+      - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 4:56
+  "3":
+    name: Hyperspace
+    artists:
+      - id: sappy
+      - id: interlude
+    duration: 3:19
+    location:
+      - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 9:33
+  "4":
+    name: Like What I Got
+    duration: 5:44
+    location:
+      - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 12:52
+track_count: 4
