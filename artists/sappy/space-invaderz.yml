@@ -14,11 +14,15 @@ tracks:
     location:
       - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
         at: 0:00
+      - url: https://soundcloud.com/sappy94/space-invaderz-ep
+        at: 0:00
   "2":
     name: Crystal Planet
     duration: 4:37
     location:
       - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 4:56
+      - url: https://soundcloud.com/sappy94/space-invaderz-ep
         at: 4:56
   "3":
     name: Hyperspace
@@ -29,10 +33,14 @@ tracks:
     location:
       - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
         at: 9:33
+      - url: https://soundcloud.com/sappy94/space-invaderz-ep
+        at: 9:33
   "4":
     name: Like What I Got
     duration: 5:44
     location:
       - url: "https://sappy94.bandcamp.com/track/space-invaderz-ep"
+        at: 12:52
+      - url: https://soundcloud.com/sappy94/space-invaderz-ep
         at: 12:52
 track_count: 4
