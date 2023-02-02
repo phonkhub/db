@@ -1,21 +1,21 @@
 name: Don't Play With The Gang
 artist: Menthalo
 genre: Phonk
-duration: 2:34
 released: 2020-09-30
-cover: https://raw.githubusercontent.com/phonkhub/db/master/artists/menthalo/dont-play-with-the-gang/cover.jpg
+cover: https://i1.sndcdn.com/artworks-zviWLhaoLNEuNfFU-p2jtow-t500x500.jpg
 track_count: 1
 tracks:
-  1:
-    name: Don't Play With The Gang
-    location:
-      - url: https://soundcloud.com/menthalo666/dont-play-with-the-gang
-      - url: https://www.youtube.com/watch?v=qSjg3oXILCw
-    samples:
-        beat:
-            - id: Linda Clifford, Only Fooling Myself
-              from: 0:00
-              to: 0:20
-        vocals:
-            - id: Migos, Need It
-              from: 1:43
+    1:
+        name: Don't Play With The Gang
+        duration: 2:34
+        location:
+            - url: https://soundcloud.com/menthalo666/dont-play-with-the-gang
+            - url: https://www.youtube.com/watch?v=qSjg3oXILCw
+        samples:
+            beat:
+                - id: Linda Clifford, Only Fooling Myself
+                  from: 0:00
+                  to: 0:20
+            vocals:
+                - id: Migos, Need It
+                  from: 1:43

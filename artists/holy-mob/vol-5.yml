@@ -41,6 +41,7 @@ tracks:
                     at: 0:00
     2:
         name: Yo Bitch a Fiend
+        duration: 4:29
         artists:
             - id: inteus
             - id: caspian-rose
@@ -52,6 +53,7 @@ tracks:
               at: 03:05
     3:
         name: Overdosed
+        duration: 3:41
         artist: ponsuda
         location:
             - url: https://holymob.bandcamp.com/track/overdosed
@@ -99,6 +101,7 @@ tracks:
                     at: 0:00
     6:
         name: Demons In My Soul
+        duration: 2:46
         artists:
             - id: inteus
             - id: gali
@@ -111,6 +114,7 @@ tracks:
               at: 18:24
     7:
         name: Thirsty
+        duration: 2:35
         artist: vedebe
         location:
             - url: https://holymob.bandcamp.com/track/thirsty
@@ -120,6 +124,7 @@ tracks:
               at: 21:11
     8:
         name: Grigia
+        duration: 2:52
         artists:
             - id: inteus
             - id: lvks
@@ -131,6 +136,7 @@ tracks:
               at: 23:46
     9:
         name: Make a Move
+        duration: 3:02
         artist: redhands
         location:
             - url: https://holymob.bandcamp.com/track/make-a-move
@@ -159,6 +165,7 @@ tracks:
                     at: 0:00
     11:
         name: Lay It Down
+        duration: 2:18
         artist: gali
         location:
             - url: https://holymob.bandcamp.com/track/lay-it-down
@@ -168,6 +175,7 @@ tracks:
               at: 32:38
     12:
         name: Overlords
+        duration: 2:19
         artist: necroez
         location:
             - url: https://holymob.bandcamp.com/track/overlords
@@ -177,6 +185,7 @@ tracks:
               at: 34:57
     13:
         name: Take It to Myself
+        duration: 3:49
         artist: inteus
         location:
             - url: https://holymob.bandcamp.com/track/take-it-to-myself
