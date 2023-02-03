@@ -1,0 +1,38 @@
+---
+name: "(辻) vol 2"
+artist: subitsuji
+genre: Phonk
+released: 2019-07-31
+cover: "https://i1.sndcdn.com/artworks-000575471768-reyhjp-t500x500.jpg"
+tracks:
+  "1":
+    name: Crow
+    duration: 2:53
+    location:
+      - url: "https://soundcloud.com/gvvap/vol-2"
+        at: 0:00
+  "2":
+    name: Silent
+    duration: 2:26
+    location:
+      - url: "https://soundcloud.com/gvvap/vol-2"
+        at: 2:53
+  "3":
+    name: Trippin-Maestro
+    duration: 2:55
+    location:
+      - url: "https://soundcloud.com/gvvap/vol-2"
+        at: 5:19
+  "4":
+    name: Transmission
+    duration: 2:54
+    location:
+      - url: "https://soundcloud.com/gvvap/vol-2"
+        at: 8:14
+  "5":
+    name: Foreign
+    duration: 2:40
+    location:
+      - url: "https://soundcloud.com/gvvap/vol-2"
+        at: 11:28
+track_count: 1
