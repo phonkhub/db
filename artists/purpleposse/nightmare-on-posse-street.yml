@@ -1,0 +1,136 @@
+---
+name: Nightmare On Posse Street
+artist: purpleposse
+genre: Phonk
+released: 2023-02-10
+cover: "https://f4.bcbits.com/img/a1793708700_10.jpg"
+tracks:
+  "1":
+    name: Myers
+    duration: 03:25
+    artists:
+      - id: soudiere
+      - id: backwhen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/soudiere-backwhen-myers"
+  "2":
+    name: Triad
+    duration: 03:13
+    artists:
+      - id: backwood-boy
+      - id: 1ony
+      - id: mxtixn
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/backwood-boy-1ony-mxtixn-triad"
+  "3":
+    name: Eyez Closed
+    duration: 04:15
+    artists:
+      - id: aseri
+      - id: soudiere
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/aseri-soudiere-eyez-closed"
+  "4":
+    name: Dust Eater
+    duration: 02:58
+    artists:
+      - id: gravy
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/gravy-dust-eater"
+  "5":
+    name: Family Matters
+    duration: "00:03:22"
+    artists:
+      - id: caspian-rose
+      - id: soudiere
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/caspian-rose-soudiere-family-matters"
+  "6":
+    name: Big Game
+    duration: 03:12
+    artists:
+      - id: backwhen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/backwhen-big-game"
+  "7":
+    name: Innermost Glory
+    duration: 04:32
+    artists:
+      - id: seithen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/seithen-innermost-glory"
+  "8":
+    name: On The Grind
+    duration: 03:53
+    artists:
+      - id: mr-sisco
+      - id: backwood-boy
+      - id: cloudymane
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/mr-sisco-backwood-boy-cloudymane-on-the-grind"
+  "9":
+    name: "2 Ya Dome"
+    duration: 02:25
+    artists:
+      - id: 1ony
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/1ony-2-ya-dome"
+  "10":
+    name: Blackin Out
+    duration: 02:56
+    artists:
+      - id: dj-smokey
+      - id: soudiere
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/dj-smokey-soudiere-blackin-out"
+  "11":
+    name: Wock Talez
+    duration: 02:47
+    artists:
+      - id: backwood-boy
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/backwood-boy-wock-talez"
+  "12":
+    name: The Grind
+    duration: 01:52
+    artists:
+      - id: 1ony
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/1ony-the-grind"
+  "13":
+    name: On The Gang
+    duration: 02:40
+    artists:
+      - id: soudiere
+      - id: backwhen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/soudiere-backwhen-on-the-gang"
+  "14":
+    name: Peaceful Event
+    duration: 03:28
+    artists:
+      - id: seithen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/seithen-peaceful-event"
+  "15":
+    name: Hold Me Back
+    duration: 03:50
+    artists:
+      - id: backwhen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/backwhen-hold-me-back"
+  "16":
+    name: "Shoota Gon' Shoot"
+    duration: 02:17
+    artists:
+      - id: watermane
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/watermane-shoota-gon-shoot"
+  "17":
+    name: Meet In Eternity
+    duration: 05:24
+    artists:
+      - id: seithen
+    location:
+      - url: "https://purpleposse.bandcamp.com/track/seithen-meet-in-eternity"
+track_count: 17

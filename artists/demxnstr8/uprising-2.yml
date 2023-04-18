@@ -1,0 +1,52 @@
+---
+name: Uprising II
+artist: demxnstr8
+genre: Phonk
+released: 2020-09-12
+cover: "https://i1.sndcdn.com/artworks-yYFVhlyYplx2iybV-QQFT2Q-t500x500.jpg"
+tracks:
+  "1":
+    name: Arise
+    duration: 2:54
+    artists:
+      - id: demxnstr8
+      - id: rximv
+    location:
+      - url: "https://soundcloud.com/demxnstr8/uprising-ii"
+        at: 0:00
+  "2":
+    name: Sacred
+    duration: 2:22
+    artists:
+      - id: demxnstr8
+    location:
+      - url: "https://soundcloud.com/demxnstr8/uprising-ii"
+        at: 2:54
+  "3":
+    name: Radiance
+    duration: 3:03
+    artists:
+      - id: demxnstr8
+      - id: varo
+    location:
+      - url: "https://soundcloud.com/demxnstr8/uprising-ii"
+        at: 5:16
+  "4":
+    name: Diamonds
+    duration: 2:42
+    artists:
+      - id: demxnstr8
+      - id: open
+    location:
+      - url: "https://soundcloud.com/demxnstr8/uprising-ii"
+        at: 8:19
+  "5":
+    name: Showdown
+    duration: 2:01
+    artists:
+      - id: demxnstr8
+      - id: caines
+    location:
+      - url: "https://soundcloud.com/demxnstr8/uprising-ii"
+        at: 11:01
+track_count: 1

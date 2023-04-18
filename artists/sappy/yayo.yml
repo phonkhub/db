@@ -1,0 +1,14 @@
+---
+name: Yayo
+artist: sappy
+genre: Phonk
+released: 2020-05-24
+cover: "https://i1.sndcdn.com/artworks-xBUhJL2nMDnXWojj-9xQS0w-t500x500.jpg"
+tracks:
+  "1":
+    name: Yayo
+    duration: 3:07
+    location:
+      - url: "https://soundcloud.com/sappy94/yayo"
+    wave: V0dKTkpMTEhbTlBIU0pDR1lVVVdVWVdVWVlTSF5bW1BkXGBeXGRgYmZiYFtcXlxeYlteXmBkZGBgXmJeYl5VUHprenR2dm9wcnh0cHhycm2EgXt7e396eH97eIqEjoN0kYaGg4qEjIqKhoSDiIOGhoOGhIaEhoSDhIOBg4ODfYaamZqZop6TqaeZiJOTkYxyosaamZ6ilbeVmoqaspyRj6CnlZWloqCumpOOk5yXj4qXjpeKioyZqZyak4aXj4aRpaKpnJqrmb2jnJ6jraOMpZ6/mpqnoJqyrZqanq2emamipZmjo6Wav5mTk5mgmY+gkZ6cmpWejKeXmoylnpWn+fn38OPTyLbBno+Mo5z1u6CjxKD99fLq3Lf79PLp2sH79/Ts4Nr5wsGamo+n9/mpla2a7Pf17uH9+f359+re9/v59Ozg2MK/v6WVnKf5+Z6ixKn0+/fy5c/5+fXy49j58vf07N77+cqgoJeRq/vnkZyTovXw9O79+/X79/fu4fnu+ffj4M3BwaeRkaKj++Ojrs+w+/T06d7K+fD38NjE++r59One++PPoKORoLT73KKOnpf77vXn+/n5+/v03tP78vf15ePPwsKeop6ynPnTsprNpfn39+Pgvfn39eXWyPv39+zh0/vNz5qZnrCV+bmgjrKR+/Xu4fv5/fn36vfcxr2gk6Orl5PCl4qKl5WOhqelwZWXopWut6OcmbuekYSpp56VoKmVxqWjj4iTmZOTl4qPkY6GlbCZk5WRq5WKkaCnnJmXpa27nqCela2pk5Wet6eaoKKcu56njKOuo5eZoqmel6Knpa6jkZeXspGPq56ioJecjJOtfYN/nqCEov3s9/fj4M3BuaCOkZOj+dWgqcaj+/T15ePB+fT16uXM/ez38Ofc+dbImpmPpan71ZqglZX59fLh//v5+fnu59P59/Tu59bNvcKalZmnnvfBpaPInPn17OPg7Pv18urRufv19ezl0fvBwqKck57y+Zmcnp739/Tu+f35/fn57OH5/ff37uDYxLewlZGZpfv5k6PEsPny9fTg1vnw9fThyv309/Xp3vv50a2ekaWa+emplZeZ+/L17Pv7+/n79OfV+/L39ene2szEp56aoqX53sGjwqD99PXw6sz59fnw2Mb55ffy49795cyXpZWpp/vYopOej5mMo5G9kaWGp6CiiP3w+fTl3s20xJeepami+9Wgnr+Z+/Xy5+G/+fT17NW2+/f16uPa+8zEnKWeqbD5rqKnnI759e7e/fn9+fv06fX39/Ts6trRssKwtLKp+fmro7+r+fn59OHc/ff58Ofa9/319ezh9fLTsrKVnqL5+a6usKf79Pfw/fv3+/n15+XPxrCanq2VlaOrl4+il4p9l5qemq2ak5qnmpyBqauejp6rpZeXqaKXq6CZj6OaoI+Zk5mZkYiXjquOlYigmpOMsqmgmamjmqCnnJ6XnqWchKmrraCgpZ6ToqeToLKnoJWwo56eoqWjmquZnJ6nnJGPo5eek6CGmZejipqgp5qOhPv79+7l1ca0sJOPkaCMioinoKOi/fnw3trY/fn14drG/fv16urTxLeuk5Oco5eRpaCRp/T99+z0+/f9+ffq3u77+/Ts5dXBra2emaejmaOtrqKl+/v37trR+fv79N7P+fv59eze0b2/qZ6RraCakZ6nrZH7+/fq/fv5+/f059z78vn05dzNv7eimp6envfgmpzTnPnw9OnjxPv09PDcxvv09/Lj3vvgxJWjk5Oc+daijq2O+/T06v37/fn38OXR+/f57uHhyL3Eo6Oaop75t7KrxKD99/Lh5b33+fTq1bv99/fs5dr5t8KtpaKto/mrnJejjvf17t799/n59+7g+/f79+7j1ci0waCPnq719Zeez6f99/Xs4Nr7+fT03M/17vn56uP57L+poqCVlff5q6CPk/ny9On7+/359/Tn3vvw+fDn3szMyKCemaCc+eC2p9iZ9/D37OfB+fL08t7I+/T38Ona+ePNjJqTmZP746CIkUWIdpqIo46MeJqXl4T58vX14+DRt7ulpYynnPnTnprTov318ufgv/v09O7Tuf339/Tj2vnCwaegj62T+b2unpma+/Xu4f35+/n16uDT/fn17OXa08K/tpynp6f5rbK0u6v5+fLl5fT79/Tp3Pn19/Tu5fX7zLCVmZ6u+/Wuk8in9ff37v379/379fLe0dGynKKgjI6XkYiImZeIcoSPjoqKhISIho59f4+KiHiTioODhIZ/e4F7e3R/f3ZveHJwcG1rdG12bWtmdm1mXnZ6cmtreHJta29naW1wYFdnaWtibWBkYmRkW1lkZF5ZW2RZVVxbV1tbTExXVUxKTkhITlFKRUVDRUE/SkE9ODRBQTw4ODg0ODYxKS0pIh0X
+track_count: 1

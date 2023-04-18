@@ -1,0 +1,96 @@
+---
+name: Chromesthesia
+artist: backwhen
+genre: Phonk
+released: 2022-07-29
+cover: "https://f4.bcbits.com/img/a0910784803_10.jpg"
+tracks:
+  "1":
+    name: Heaven
+    duration: 03:25
+    artists:
+      - id: backwhen
+      - id: everyst
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/heaven"
+  "2":
+    name: Other Places
+    duration: 03:55
+    artists:
+      - id: backwhen
+      - id: just-connor
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/other-places"
+  "3":
+    name: Essence
+    duration: 03:03
+    artists:
+      - id: backwhen
+      - id: katebi
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/essence"
+  "4":
+    name: Somewhere New
+    duration: 02:46
+    artists:
+      - id: backwhen
+      - id: von-storm
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/somewhere-new"
+  "5":
+    name: Can You Hear Me
+    duration: "00:04:16"
+    artists:
+      - id: backwhen
+      - id: everyst
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/can-you-hear-me"
+  "6":
+    name: Soft Thoughts
+    duration: 03:05
+    artists:
+      - id: backwhen
+      - id: just-connor
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/soft-thoughts"
+  "7":
+    name: Honeybee
+    duration: 02:41
+    artists:
+      - id: backwhen
+      - id: katebi
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/honeybee"
+  "8":
+    name: Complicate
+    duration: 02:33
+    artists:
+      - id: backwhen
+      - id: wrcktgnl
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/complicate"
+  "9":
+    name: Vulnerable
+    duration: 03:14
+    artists:
+      - id: backwhen
+      - id: everyst
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/vulnerable"
+  "10":
+    name: Lately
+    duration: 03:12
+    artists:
+      - id: backwhen
+      - id: just-connor
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/lately"
+  "11":
+    name: Glacier
+    duration: 03:05
+    artists:
+      - id: backwhen
+      - id: katebi
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/glacier"
+track_count: 11

@@ -1,0 +1,17 @@
+---
+name: Dubai
+artist: raigeki
+genre: Phonk
+released: 2021-12-03
+cover: "https://i1.sndcdn.com/artworks-37XATKJqNDwH4c8P-nTPEzA-t500x500.jpg"
+tracks:
+  "1":
+    name: Dubai
+    duration: 3:09
+    artists:
+      - id: raigeki
+      - id: re_v
+    location:
+      - url: "https://soundcloud.com/raigekibeats/dubai-w-re_v"
+    wave: MTZDQ0xVV1NvgXR2aXuBg3t2dniDe3SIgXh/g4GMgXqEjpOKg4SViIqMhI+MhIiGhoaThH+Dj6OcnpmIjJGKnJWZkaCez8i2o7Kuq5quyra/trCuqbClpa2tqamyp6CunpOPoKWppYrGwb2yzLSnsLbBtr23rqmtosGwpaCnqZyeir3Gu7e/nrbV+/nB1cbTvbC25cTItra2ua67tMjExvX3zczu7vf3tLbEzK337MzB0c+5sL3qz8SttLn19bLE+ffj98LNyOHNyMb197CusvnMzL+0yPfy2srEucb50dHTwcS2tvf3tr+52szYvffj+ff399PRv7C7yMbPu7+2ucH3+c3IwsHK9e6wud7Y9/fIwqf3yPfK0dXIzMTB1u7CyLm/xra/zK60yvT31dbR7Mb19aKiwsb598TcytG7u7fgzc25tMLW98q2u/nw9/fRz+HYu7+/9cito/n31sy3xPX3stiysK759b2wp7vBws/1u8Grz8jPzPf19/mn+cTT2re7wszNxLvKucHI9eDRzcq2+fXBvbneyN7Vxqe3q/f39ffl58yuq+fu6djp4fX57Mya5eH57uDh3sjT3tzq6enq+e7h5+Pn3Mjc3KD7yNPI9fXe3Pn58vnM4+Py4PX14N7Y0fv33NjRz6P59dzN+fX3+dza1buZ1tj399jW6tycnJWp2P319/Xq4ePq3OHW7pO2lfv19ffltp73sPvc2uHh1uHj5caG2sT51vnp5da/o+Pg0erT7uH56uqV4er5++XY2uen4OXq3tzs+/vj5efg4+PV4aP5+cjN9PXc59j52Pn01uX04fX54eze1dX39Nja05z19+HctPnY+fnV1tiryOCl+dHWz+qwo5mlzfn19/ne5+fl4dra7q2nqfX3xPfI4X/59/f33NzW4L3p5+nEsL/W0cy2ssLM1b+5vb+wu8HBrrnKwc/P0c3Twc+3rrfGu72wq8rG1cypxsa5rsG2ubbKz8/Pyr+yt63MsMbIwbDI1r22vcjP3trNzLK7xsy/xMGuu7/CxMjT1dPEwrm3wbfKt7/BzaW3xs2/3NjIu6vC1cqttL22ub+yyrvEwcTGsqK2tK60v7a3zM/K+d7q3unl2urq5eXj5eDh2tPWo/v79/nl59rq6drj9fTq7Pn74dzl5dzp5fTj4dHg4NbGp7aZsK7/3Pvs8OX7/fn57OfW+eDn6efg5+Xw8Ofj2vnswr3au8HB8P27waf1z/v1+/f5+fL5vbvGwr+9wdbVu7b098jGvcS7+/n59+Pa8s+rt6ucoK2i9fnq6ePh9Pvp9fTw9fv56vvn8Ozy7vvp6ezsu+ny7MK28un74fn55+n7+ff15/Lc+efn4+zj4c+yxKKw4+7q8O7w4+rj+/vs8unw7Onn7uP7+/v9vdXB3sT74fvuwr3nxPT7ys3MysL08uzy7N75+er5yvvK++7RyNrG08G39PXw1fXq5/Dh5ffw9ers4eXj5+PY4Oze3t7a3ODTzdHRyvLp6eXj4Org0eDezdrw6eXj2uHl4d7g1tze097j1s3Tz8bN6djBvc3E6d7CyMS/ufLn5eXs6uXg3uneyr/hzcS5u7u5vcbuwreip9rw5+XazLa558i3vca7vbm9wbuyz/L08u7u7uXq8vLy6uf09Pu0/eXq7Pn75ePp6fD76fX0++z7+fTe9fD07PD74PDp5afn6fCp7urp++D54eXu9/ny7uHj7vnl6tzg6eXEo6WipfX94ers9ef34P376ezh5+Xl5fXe+/X7+8TGz7/C+97948LC4cL5+bm9wtjC8PLu7Ona+/X17tX7vfveyr3N09HKyLDMpaXRtq20sKetrfX56unj7Nzj6vLn6eHn4dre2N6n+e71++zg6uzW4+Hq6fDp+fnp6eXe5ePg7urV3uzn2sLIspy/vfDc+9z16fT7+fvu49j76unn7Ozl6fTu6eDa+83Eys/Iwbv5+8q2ufTe+9r77vv3+fnBzMzEwcS/5cS9vfn3zMG/1cb77vX11uDnxOny6unq7t7NxM/E09XBrsjNz8Stu8TBtrnCvczBzdPWzNXRwca5tMG5ucTIyNPMv67Bys3Wt7S7xra2wbuwtsjC0c3P2szMxL/CubvGz8zNtMLMv6u9t7m5ys/W083GtLu5t6e2qcjC1cSyxMi9p8G5ys+/qcTIu73Bo7vNz9rK0cTKz8a0v8bNysjP3Mywt8G7q56IiIiIhH2joo+IjIaEfX96cn+Ecn1/cnt2ZGliXnJvYnBgYGJeXmJea3JmXllTVVdQXldKYFVVXFVQYFdeU0xHSkVIXllOSEdHSEFcV1dXUExFRUVKR0VHRT89OkpKRUg8ODw4ND88Nj82NDw2M0M9PEM2Mz04OjYzMTEvMy0vLy8pLSgiIh4Z
+track_count: 1
