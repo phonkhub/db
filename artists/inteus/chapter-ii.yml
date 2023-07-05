@@ -1,0 +1,71 @@
+---
+name: Chapter II
+artist: inteus
+genre: Phonk
+released: 2018-03-06
+cover: "https://f4.bcbits.com/img/a0930627312_10.jpg"
+tracks:
+  "4":
+    name: "Diamonds Don't Shine"
+    duration: 03:20
+    artists:
+      - id: inteus
+      - id: 6-6-6
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/diamonds-dont-shine-w-6-6-6"
+  "6":
+    name: Heart Attack
+    duration: 02:54
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/heart-attack"
+  "5":
+    name: Blue Stone
+    duration: 03:49
+    artists:
+      - id: inteus
+      - id: courage
+      - id: backwood-boy
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/blue-stone-w-courage-backwood-boy"
+  "1":
+    name: Howdy
+    duration: 03:13
+    artists:
+      - id: inteus
+      - id: 6-6-6
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/howdy-w-6-6-6"
+  "7":
+    name: Ignorance & Power
+    duration: 03:45
+    artists:
+      - id: inteus
+      - id: sheltr
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/ignorance-power-w-sheltr"
+  "2":
+    name: Fire On Me
+    duration: "00:02:59"
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/fire-on-me"
+  "9":
+    name: No Sense
+    duration: "00:03:07"
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/no-sense"
+  "3":
+    name: Piss Poor
+    duration: "00:05:08"
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/piss-poor"
+  "8":
+    name: Shadows
+    duration: "00:02:44"
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/shadows"
+  "10":
+    name: "I Can't Do This"
+    duration: "00:03:08"
+    location:
+      - url: "https://inteus-holymob.bandcamp.com/track/i-cant-do-this"
+track_count: 10

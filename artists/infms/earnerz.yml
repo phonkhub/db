@@ -1,0 +1,14 @@
+---
+name: Earnerz
+artist: infms
+genre: Phonk
+released: 2023-04-15
+cover: "https://i1.sndcdn.com/artworks-ANM09k2DGioE6Zbz-E2v7Mw-t500x500.jpg"
+tracks:
+  "1":
+    name: Earnerz
+    duration: "0:2:12"
+    location:
+      - url: "https://soundcloud.com/iaminfms/earnerz"
+    wave: YlxbZ2RmaWlvcnt6bWdrcn9yb3hvb21rb29ta2dpaX9va2Zmg3ZgZGRpZ2RpZGlpXmJkbWZtbW9tcn90en9/g4+EgYiBfXt4g3R0bWl/dmlvbXJtemtkbXh0fX16dnZvcnZ0cmdtbWdpa2RmYHJ2b3J4eGtnZ3ZrbWZib21nXGlvbWZra3p0cHJwcHhya21rk4ZwcHZ7dm1mdG1pdm9vcHp7b3Z0dHJpcGZ2kX+BgX2RdnB/enJrb21vb3JvaWlrZGZ4eH17dniXqa2MdnZ2bW9tZmd2ZF6IenhycnZmb3BygXt0dnJmZ2twa4SEfXR0eHpmdGJ7em1tYnSEgYF6e4qDf3hyhn94dHhvcHZnZ394f4OBoIGGeHp9hIOKeJF2bXBwe4GGhHt/l4iEhoR/f4R/iIiKinqwmrmGqauXpZytpaKTiJOEj4ODjoyTkZGVf722jox7hn1ysGdtj2t/Z21teG1nZ9Gek5GDsqfIssS2jMS3tL27rZ6XzLucmpy7nL/auaC5ssa2z8Kat7my1qfIxq2jrr2aor/PyrnPp63Iyrnpub/IxJnPnMiuu9awu4TEu5XhzaPGq6Dg07bBvdPGu46yjIOa0dyw6vDP4M+uzdbNsr+w2s+52NHKyr+pueGrxq6ju8G0qaX7+b/CxLu/+fvT8tPEysHRwcrVvfv7xMS2+fvRwcbw8MT7+cLGxsa0t/vnvcLCzMr7+9rlzMzMu/v5xMa9+/vWysH5+8TGwffgzfn5vb2/+/v3+/m/ub3Nv/n54OHIysy/xsHYzb/7+cLIxPv9yMS79dXN+/nIzNHIyPn70cbCwb/C+/nM6sHGxsL7+fv72M/GxtbB+/u9+/f11c/ExPv7wv37+/vMxr/BwcL7+8L3u8TKwsTKv8bE+/u9v7n5/cbGwunKxPv5yMy7zL35+8bEv8rCwvv57PDBv8bC+/LEzcb7+dG/vfv5xMbE7Mz5+9PEwsT78vv7u7e5t8TE+fns5cjBwr/PyODGyPv5xLnI+/nCzMH0v/n73sa/wsGy+/vBysHEvcL5+fXcyL+//f3B+/nExsbVxMj7+/37xu7EwsG/+/n7+9q9j5OZjNHCjsa9wZe7rrmRorSlp5eenJWPj4qKhIiOq7m7xMKnoqvEva60p4+Tu5OXmYqRnMzItKCMhIyKiJGKlY6GeoGatq2ntJ7KqaDRtqnTqbu/vam0sMHVq6XRo7+0qaKev7mckZqTiJGPjqOTmp6ejo5/q5eahH2IeHR2dI6RjI6n1cTTu7TGsKKauaW3u7vErqCawsSroJGMjoalnpectrmZkYaTjoyTt+DwxOe/t7m3trS2tpyOt67GzZ7T0djR1au7zbetsKego4yKj4aBioaPiOGglY6aq4yKio6TlcL059Hg0b/c4dq31rCV59y31eXP5d7Gwc/GxMyy4KCeioqXzdrpt9jGxNHKq8GXmZr0oJOOj5GplZGGj4h/eHiMmeG9qcjIoJmXspmM0betsuO9mcawg6KpZ21v2tpyz6dnwmv7/fny8vTu8vv79/Ts6u7j4OPc4OX92uDVzf35v7+08Lf7+9W2t8G2sPv9xMrGv8rM+fX107/Mzfv7wcHG+/vlzb/C++y2t73hxvv7v8bB+fnW+/u7v7fExMT7+fXRwc/Cysq9ysr7+83GxPT7zMHEwefG+/naxMHKu737+cLGxsLG9/vY8MzExMb7+cL7+ci/uc/G+/vC+/vl2sjIv8j7+fv7t/v5ucTGv7f7++D1yMK/wsTPv83K/fvEzLn7+8/BwvDev/n5yNHKwcq3+/nBwszExPv71u7RxMTC+fnBxML7+czCxPv7xMa/8NG9+/nBtrf7+fv74bu2vcTP+/nK3sTEysLKxs3Nwvv5wcbC+fnCv8juz8b7+cLIxNG/+f/MwsHCwcL7+cz1wsHCwf35+/vP0cHMv8L5+b/73vDWv9q/+/nB+/nMp6KZt7fMo62yyNGpq5qeq6Ojmpy7tLero6C5mpOVsqOejpGnnpGyiIyTjoqTjIiOjIbGuZWRipewhJWPio6Ip46Of4GEjIapkY57e4aBopFcrnh0dniMmZGTiK6gj4Z/dJOGqYF9enqVYluEiIaEf6l/g4F9ioiIg3qBbWlkZ3h/eIF9mZN7f32Kdnp4dn9yenRydHB6fXR2mnaKcHJ2eIN0en96cHZwem9te3CIcHhvbWt7do52cmlra29nZ2dra4GIdGtmaXhtel5eXmdnZG1iYF5cXH1nYl5mZltZYmJkZGBrYF5TV1xVgXhkZFBOcGBeOkViUFNOTlleYmBeZlBMTExQU1FVTkVKR042UU5QUVFQV0dBTExkUUw/Okg2PTw4R0M/PT1IRUVDQ0M9Pz88NjY0ODQ2MS8tKS8zKSsoJDQoJBsX
+track_count: 1

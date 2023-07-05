@@ -1,0 +1,14 @@
+---
+name: Arcane
+artist: bright-ideas
+genre: Phonk
+released: 2023-05-11
+cover: "https://i1.sndcdn.com/artworks-RHwVVze10C8XWBiF-4m9opA-t500x500.jpg"
+tracks:
+  "1":
+    name: Arcane
+    duration: "0:2:48"
+    location:
+      - url: "https://soundcloud.com/bright_ideas/arcane-1"
+    wave: qa2ptKm2rq6pq7ClrrKuqaWnsK6lqa2jt7ausq63tLK7rbC2rre2t62wqaKiu5qiraWrsKmarqWptqOgoK6lt62tqa2tpaWgp6KtsK22q62nqaCyoKWepaKpo7KctKmgpbCnrbCwp62goqurraWwqa2wqa6lopmnpamip6Onsqect8TKucbCxsjKvdHBzci9xsLEysHPxLC9u7+ytL2ruba/tsLCxL/Gv8yutq65trm3v7/Cv8TEwcLNyMTG08LKzb/CvcTByLu0wr23xLC9u7S/t73Gubmusra3ramrsqeiu8bKwr+7wbbIxLu5vb3Cwr+7yMLCvba7vcS0wbm5vcL58uXj4e77+/Xp3uf7+9zh6eHn5/n56eDj1trGz9Haxvn59efj7Pf79Ozj3vn73ODe1uPg+/n5++7p9/ng5ery9/ns4Ofq+fv07Orn9/vh3N7h4eP9+9zg2tbIvbfWzMH39+fn5en5+/Dw5+D3+/X54eDj3Pv79/3w8Or59+rq2uz36vDp6eX98PTp7OP599zh4OHg2Pv55drwyMrG1dXWyPn56eHp5fv06uHh3vv74eHw8uHp+/n7+fXp+ffl6vDn9/Ty7unn+fvu5+Pn+fvp4eHj5eP7++Pl6rvBtL3E1r/79efq5fT5+enj6eX7/fv76uzs49jg3tze4Orh5/Ln6fn37OPs8vf39PTw7Pn55/Dq4PDw/fn17urWytO2udq0+fvl5eXp+ff07Ons+/ve6ufp8ur5+/n57uz3++nn9PL5+fTh6vD3+fDw6ef9+fLh6uPh4/v56unp59rWxL/exvf56ezn7u757vLq5/T59fnp497e5fn19/n08Pn97u7s7Pns7PDp8Pns8Ozw7vv34+H16fDn+fXu5efPz73BucTB/fXs5+rq+/v0497n+/nj5/fn4/L7+fv18O759+Ph8un79+Ps4Or7+fXl6uH7+97l3Ofp6vv55ePpxNPNu7fMufv56uXp6fn54Orq8Pn3+/nl5+7l7uzn7unu6eDq5/Tq5efh4ens6uHp4+Xn4N7g6eDj5d7e2Ozh4MGysq65tL/c5+ny4+re3Njl5+Xc5+zc3u7j4dXu7uPl6unp7OPa4Onp4Ofh5erT4Nzh5eDW2Ofg5+Da3trj3uGut6CnoLaaq9zh3uHY2N7c5drg2uHg3t7u4eXg3ODY3tXg3ODT4NzV4+Pa4eXs3NPp4OHY3OXY4+Hh6efh7uDj4ca2tLa0sKnn8tjj3OnY4+rw3NjY597p7Nrg5ePl5enn6uzg4ODl1uXc3ODj4Nzg3Onj59ja1d7g3trl3uHW1tyysrKwwa6e1ePe6eHl2unn4N7l3ODa2NrI2uPVt97g3MjV3NbG2tj79e7q3uX39+ru3Of5+d7g4ODh1dXs6s3e2LbEz8zNyv379Ozq7vX54PTc2vv76tPV2NXR9/v5++7y9ffu5en38vnu3uDp4/3h9dXg4Pv16tjc1uDW8u7c1ePE1sLVz8G0+/Lq5d7p+fn34ePs+/vY3Onn6dX5+fv55+X39+zn6dj59+zw4en39ffc5+X5+drq5eHl4+fl5dXYu83CxsG/rvv36ufn4/v58uPg4/v55eDe3t7c+fn7/fLl9/nw9fLs+8/TucHP0bbexsS9+be3t7arra3Nysqu4L3WysHEwrDN1dzMyMHMxMHPwbK/xsi5vczEvba7yMTN3MHKv7eysPn54+Xh7Pn75+7h6vn92uPn59zh4/Ln2OPhxtrPtra3+/n36enp+/vg8OPp4Pv34+Hu3uzl/eX/7Ozh+fLe5fLn+/Tl4Ofh+/fy5ePj+fne4+fn7Orw6uPq3LnKyMK506P79+zh7OH59/Tj5+n5+9ja5+rs4fv7+fvp5/n17ufp4/335efn4/n58ODu4fv53tzg4+nh8PLq3uHez8/Bwc2y+fTs5eXl+fny4erp+fXh3OPl5dr7+/v58OX5+efl7un9+ezn4er39/Ta3uP7+eng4Ofq4enw5dzuzNHVwcTNsPn75eDp5/n56e7q6vv58uDp7unp+fv5+eHq+ffj4erw2sTMt66tu7ujoKCjmpmVj5WOlYyIhIaIg5WRoJWeqaCVma2lk5GZjIF/iI6BfXh7eHB4enJ4a21rf4R4b4aGgX2Dinp4enZ9cnJtYmRma2RgYGJgW15gVVlka2lmfXRpYHBpYmJnZ15eW1tVUVVXTFNMTkxQSFBQSFBTWU5RU05KTlBTUE5MQ0VMTEhDRUVDPT09PT89PD0/Q0dIQUNFUEhFSEpFP0dHPTo/PTo4Ojo4NjY2NDEzMTY0Nj0zLzw4PD8/Qzw8OjY2MzY0NC8vLSsrMSkrKykpKC0xMS8vODYxLzQ0My0rLSgmKCkmJiQmIiAeICAgIB0bGSIgHRkdGxUS
+track_count: 1

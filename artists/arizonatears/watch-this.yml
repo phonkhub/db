@@ -1,0 +1,18 @@
+---
+name: Watch This
+artist: arizonatears
+genre: Hip-hop & Rap
+released: 2022-08-14
+cover: "https://i1.sndcdn.com/artworks-4SvOuw6sfVSlLcsR-fpkXdA-t500x500.jpg"
+tracks:
+  "1":
+    name: Watch This
+    duration: 2:43
+    artists:
+      - id: lil-uzi-vert 
+      - id: arizonatears
+        type: remix
+    location:
+      - url: "https://soundcloud.com/user-682129416/lil-uzi-vert-watch-this-pluggnb-remixprod-arizonatears"
+    wave: tsajtrmnsLCissK/oJyjwc2/ubmpxsS7zbu7v720sMK5vbfBtK22xLfCzLeryMK/ubS7rr2loLnG07uiq665sre0srmtosGywcy2srTIyLCltNHIvczBubSwo6mprrmcrca3rZWXrcHMp7uusI62mpq2l56tnq6ej3+uzMyroqfBv6mtmaW7j56tu7aamaO7paWpq7nTu66/tq63o6fGyMKwsMbGucK5xrK7v7Cgrqunt7a5uaWZo9PGwrC/sLe2t7SusrKrrb+2opmRt8LCucq7yMG5xKLBra2lsrKimqWlxrfBxL3Mva69sMG3wra/4M2usLDPwbTBv62yyru5wrS0uavGu72tsMHEtLbMo7Syxrepva2utLLEyKelwdPGz7uytr2wwa3Gt7Kyucy/p7e3sLbEtrLR0cq5ssjCu7bB1eHEys359ezw6e7u3Pnw6fLj4N779/Dl4N7q4+Pe8vn05enl7uPY2M/38Ofl3vnw5ern6eH09+zu6t7g3vf37OPy6eDg5+X1+fv58urq4Pv37vXq5enj+/Lu5ezs6vn37vLl4OHh++7q5efp4+Xh2vn37ure7PTh1tX39+zp4fX38PLn5erg+fDn8uze3PT97vDq5ers2uHg+fv39+fs5/v36vX07u7u9fnn6uru6uH78u7y3uPl9/nn5+fp6t7l4Pn37uXj5fTa3uDR9+zu5eH38urw7Ozc9/nu8O7e49799/Dl5+zh2unc9fv7+/Dw7ur38u707uXl9Pvu8O7j8Or39e7y4+Pj2vvu7uPe5+Hl2Nj58uXn4fLh4NrY9/fs5+D39e7l5+rp4fvs8vDg4+D39+7q7uHn5+rj2Pn7+fnw8uP39+707u7n4/v18OXl6en3+e7w7ODg4fv57One8Org4Nz0+fDy8uXu3NbV4fn14/Dn9+7p6eHp4fn36ezl4NzW/fnw7OXp5eDa2vn7+/n07vDg+ezy9e7n5ePp6tXR2tHRwq6Vz6murq3Brq60sr+3tLSprauup4bKv6eTkZ6gmZGE7urs5ePs4dzu5eHu5drY5+7q7OXp5eDg3Ofy6uXs3urh5+zs9PDy4Ofy6uXs4OPg4fDs7Onn3NXu7uns49ze4N7R7vDu5efq6dzgzfDs8Ore3vDu5eXg4Nzw7uPw6uPc1u7y6efl59rh4dHy8PDq4+rp1uzl8PLs4+np8Orp5eXj4e7u6ezq3tzY7vDs5+Pp4Nze0/Dq6enh6uHe3NPp6uPq5fTu7vDj4Orc7Orl7OPc1u7s6urp5eHj5d7W7u7l4+fu6e7y6fTw5+Xj6eDp2tXj3Ma9p96yrbagyLuysq3BxMHEsL+2nr+a1dGwsKCptKC7jrfPssK7wrupsrau1r2lpZfMtsGjzLetssyjxMKuu7Lnt6uwo9HTz6291sy5yLK3zKuiqdPVnqCexsS3raurubC7q7C/tKOZmtiwo5qZxKuwrZfMtMG/rb3Brbaj1c2ao5XIyK6wtr3Kt8a5u8bCqa602qmwtLfWxsG7tvnu7u7h7un1+enw5+Hh3P337uXg8O7c49z79+fq4fDq3trV9PXp5+P1+e7u8OXp4Pv37PDn4OnY9+7l6e7l4eHj1vn7+fnw7u7y++718urj6vn17OXn7Orc/ezp8ODh4/n38Ofp5eXe49jV9+zp5eHy49bW0fnw5ePg9fDu7OPu4ff58Ozs4OPc//fs6uXp7uzc5fX5+/317Orn+/Xw9fTq6ff38uzw6eHl+/fs8OPe49j59fDy7OPs5d7a+fLs4eHs59zc2vX37O7l9ff04+Xp6tr99e7s5efl3vn07OXq4eDg49j3/fv74/Dq9/vq8PLq5+X59ezp5efp3vny5+7g3tj9+efj4Nzq49je9Pnp5ePh7OXc1c/38Orq4/fy5e7n4+P99+ns5eDl2vf37O7l5eDg49r39/v57PLw6vn18vTq4eX9+fLu7Ozq4Pn56u7p4ePa/fDn4+f06uHh2vn17Ozp8Onc1tb19+Xs7vL57u7l4Orl9/Du8ufj2vL98Orq6efl3N7W+fv39Ofw7Pv16fLy7OPl9/Ln7u7n5eP97u7w5+Pj9/fn5ePl6d7g2Pf17OPj5enl2tbs+ezq4+X38unj5+Pe9/nn7Ofe3t798ufj4+Pg1trY9P35++rl7OD39Ory7t7l4+PY0dXPxr+9lZeTiIODkb+0o5eVmZWTmpWPiI99g4R7gX97jI6PhH2ytqecnKKcl5OejoyGhoOtsKOXoKuXmoyOpcKjl6Wpo6CXmZ7KwbmrsIh/eHBwa3JpbWtmYFxcZltVVU5RUUxIR0dMRzhBPTo/Ojo8ODg0NDMzMy8pKyspKSgmKCQiIiQeICIdHh4eHhsdGRkbGRkVFxkXFxUVFBIUFBQSEhQSFBQQ
+track_count: 1

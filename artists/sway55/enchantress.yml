@@ -1,0 +1,17 @@
+---
+name: Enchantress
+artist: sway55
+genre: Phonk
+released: 2023-02-08
+cover: "https://i1.sndcdn.com/artworks-1pOz09KIEQijQnbH-SWzcWQ-t500x500.jpg"
+tracks:
+  "1":
+    name: Enchantress
+    duration: 3:45
+    artists:
+      - id: sway55
+      - id: everyst
+    location:
+      - url: "https://soundcloud.com/sway55/enchantress-w-everyst"
+    wave: LTM0Njo/Q0pFTlFRVVteYGZkZ2lvZm1ndnB2aXBwZ21ydGlpa21ta2lncGRrZGZnYGRkYF5cYmdnbXZ2gYqIjo+OlYaVjJGenKCZnKejk6eepa2topyljJmenJOXmZOTiI6IkZGamo6PjJeKjoiPl4+VkaOVj5ePjJWOkZGEj4qMiIh9hoN4enKIf3t/g397dnp6f4R4fXh9e3+Be3hyenuBcHB2e3hwcm9reHhvcnuBcINyhHZ/ipGTjIqIjI6Tf46PkZGRmpyMlaOXnp6Tl6KXoKCPoJqal4yemZOKioZ6cHBwjn1/fXDVyreaz7SnmqeOwbvIp/v3yL/GyPn39cTh2vn3wbTEysy/+ffExuDWu8TKzfn1+ffBwsTKwbnqzM29z8jIv727/ff59bm55cz59NjTub3597u70cT77urE3tj597nCwrvEvfnswdHhzMLG1c/39PnuxMK9vbu548rEwt7ExLnMwfvp+ffRxOHK+/TY0/ng+/DGu8HC++rYytrK+eO0u8/Czbn548zB8MLRxsTEqa3508LRzdG/v+zCzL3Nu8a5wcT50fnKu7/1wfneyre5v/vKubTKtvnM6b/ewvnBwsHTzM3G+9jKxOXMzb/NyPm5+djCwszIt7Dswrm/08rMwsTE+7b5z9bB3q3GnLvKxJn5v8jB08T3xvXV3sj5yLuwzbbErfvTzcbl083P1c359fvn3NHT0cTy3sa2tM/Cxrm99fn3+dHM1fD5+crazc/3++Pe09H5/ezj3Oz5+c3P1c/Iwvv5ysLj4ePczNr9/fn53tHY3NbK49rGyszKu8a5z/n3+fvp1eHg+fna2vn5+fnPysjY+/np2OfW+fm3tr/EysH799ba6dzR2trV+fn7+dHN2MbRzenWv73TzM3KytH37vv3zdbpz8LKxs/Nyvn008zY1fn19M3p3vn30czNyNXa+fTNzefaz8TY0fn3+fLWzNPIxrv5wcbCzMjGyr/N++759cLG6amMXIFwg7b38sG0u7358uq74c378srIxLC9t/nqt7barrnBv7n/4/vjxMrMvb+057eyub3ByMjIt/vj997ExuG/+cy/t7/B+cy/ub2/+ePswuXG+cK/yru2xsr53r/K2sLGua62+cH5xsrBrre2t+C9t7S3xre9ua37v/u5wtrwyPnEtMb5svnBu725t/nK3r3gu/nEws/Bu8G3+buyyu60wb2/v/m997/GyLu5t73YubTEv7fByL3K9/T5vcjT6eX7wsS5wr/7u7e3tOr53urT3Pn7xs3IyL/K+fm7xOXNvb+7tPX59fmyrru5tq33z62tp5yenpePio+Pg4iP0cGVmaOcoK2ynJeOj4yKiI6Pj5GIjI+Dho6Pjpe7u7upvb3IxtHKyLnKyMTIsLewrq2joKOnrqmtp6CRoru/wb3Rz8a90cTEv9XWxr2tu7a3xsG9yL29v7Kwsquuo7S7t9HVu8jKzcy7xtXW1r23sra5p6Kgp6WwssHEt8bIvb3BytHK0d7Iu8jCtLTCwb+71sa9ssbGtrfEubC2wczYz8zNxsHMzOXVxMzM09PK07/Rt7mlyr2wqbu2sra/xMi9yNXPtM/R1tHe4dbI1c/MvcrI3tPKxtOywratpa2ttrnEz83K1tHT1uDa2N7p4NjV3My0uc3Mxra/ttWivbvasrarxJ60nrm5+cKwt72598H0wt7C+cG7yNHPxLn5v8jM7NbPxtHR+cj52tjV09XI1uXCwcrWv8jEv733u/nGzcrl4Pm/3tzY6vne5dPcz/va99bw1vnVzMjYyM/y+czK1urY3NHY7vn1+drl3NjV1dXexsS709HRxNb1+/X58Nb05ff5xOH5+/f7z8/Cwvn73N7W4ff5xLnVxszI+fnWyuzq1ufat8zN+fvnzdzTzMbp3LSuzdG2ssHG+fn5+djG4eP5+8bT09j5+eDW3Nj39/TY6uP5+czRyM/KzPf308Lj1djN0dj59/n52szT2NHNzci5tL29raWghIiBjrCnrZ6jmaOTrqen+/T39fLs56vTl5ypmpmpuaWnspf38PT07pqVnqeamaX39PTu7Onjl9aOlY6Tl/f08I+Olffy9fD18uNrfZP18vf09PDq6eGy1ZOtoKuloLmlo8Sj+fTy6uqTsKuimqWr3rTIwsjKwrTlmqeutKPesK2VoKneub+yxMKua3uV7uX18PTy7OXjqc+Tmpeaoquwmqm9o/X09PXql56rqaeipff08vDp4+mZ04aKgZqe9/Lwj5mV+fT19fvy4HSOmvLu9/Xy7Orj6ZzVl5ePtLajpaWwvb338vLy4KW0uaO7sK719PLw6urjq8iTkZyPk+PesoSMntbT0c/VxpNkbbK9u8G9ubKuqY5RVUdKSD04NjEzLysp
+track_count: 1

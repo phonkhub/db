@@ -1,0 +1,35 @@
+---
+name: Odd Ideas Vol. 2
+artist: odd-1-out
+genre: Phonk
+released: 2023-01-27
+cover: "https://i1.sndcdn.com/artworks-D76qv4QAXkAgdzD9-JF7soQ-t500x500.jpg"
+tracks:
+  "1":
+    name: Back To Back
+    duration: 2:28
+    artists:
+      - id: odd-1-out
+      - id: bright-ideas
+    location:
+      - url: "https://soundcloud.com/datboiodd/odd-ideas-vol-2-odd-1-out-x-bright-ideas"
+        at: 0:00
+  "2":
+    name: Spend It All
+    duration: 2:20
+    artists:
+      - id: odd-1-out
+      - id: bright-ideas
+    location:
+      - url: "https://soundcloud.com/datboiodd/odd-ideas-vol-2-odd-1-out-x-bright-ideas"
+        at: 2:39
+  "3":
+    name: Next Up
+    duration: 2:38
+    artists:
+      - id: odd-1-out
+      - id: bright-ideas
+    location:
+      - url: "https://soundcloud.com/datboiodd/odd-ideas-vol-2-odd-1-out-x-bright-ideas"
+        at: 5:00
+track_count: 3

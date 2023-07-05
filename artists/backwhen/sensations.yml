@@ -1,0 +1,53 @@
+---
+name: Sensations
+artist: backwhen
+genre: Phonk
+released: 2017-10-15
+cover: "https://f4.bcbits.com/img/a0740878880_10.jpg"
+tracks:
+  "1":
+    name: Metro
+    duration: 04:08
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/metro"
+  "2":
+    name: Vines
+    duration: 03:22
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/vines"
+  "3":
+    name: Gulf
+    duration: 04:48
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/gulf"
+  "4":
+    name: Lemonade
+    duration: 03:57
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/lemonade"
+  "5":
+    name: Unspoken
+    duration: 05:12
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/unspoken"
+  "6":
+    name: Helix
+    duration: 03:23
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/helix-2"
+  "7":
+    name: Surge
+    duration: 05:46
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/surge"
+  "8":
+    name: Timestretch
+    duration: 04:02
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/timestretch"
+  "9":
+    name: Reprise
+    duration: 03:09
+    location:
+      - url: "https://bamdcamp.bandcamp.com/track/reprise"
+track_count: 9
